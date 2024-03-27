@@ -1,19 +1,17 @@
-###################################
-#########RoL Runs##################
-################################### 
- 
+## Fragment fungi 
+ ```
 #import paired end reads for RoL run1
-#cd /hpcstor6/scratch01/p/patrick.kearns/Becker_lab_ITS/RoL_ITS_Run1
+cd /hpcstor6/scratch01/p/patrick.kearns/Becker_lab_ITS/RoL_ITS_Run1
 qiime tools import --type EMPPairedEndSequences --input-path data   --output-path RoL_run1_seqs.qza
   
 #demultiplex reads for RoL Run 1
 qiime demux emp-paired  --i-seqs RoL_run1_seqs.qza  --m-barcodes-file RoL_Run1_map.txt  --m-barcodes-column BarcodeSequence  --o-per-sample-sequences RoL_Run1_demux.qza   --o-error-correction-details demux-details_RoL_Run1.qza   --p-no-golay-error-correction   --p-rev-comp-mapping-barcodes
   
-#export fastq reads per sample for run2 
+#export fastq reads per sample for run1 
 qiime tools export --input-path RoL_Run1_demux.qza --output-path run2_demux_fastq
   
- #import paired end reads for RoL run2
-#cd /hpcstor6/scratch01/p/patrick.kearns/Becker_lab_ITS/RoL_ITS_Run2
+#import paired end reads for RoL run2
+cd /hpcstor6/scratch01/p/patrick.kearns/Becker_lab_ITS/RoL_ITS_Run2
 qiime tools import --type EMPPairedEndSequences --input-path data --output-path RoL_run2_seqs.qza
 
 #demultiplex reads for RoL Run 2
@@ -65,6 +63,7 @@ qiime dada2 denoise-paired \
   --o-table RoL_dada2_table.qza \
  --o-representative-sequences RoL_dada2_rep-seqs.qza \
  --o-denoising-stats RoL_dada2_denoising-stats.qza
+```
 
 #assign taxonomy
 
