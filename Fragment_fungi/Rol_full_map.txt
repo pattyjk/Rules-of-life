@@ -1,0 +1,808 @@
+SampleID	Plate ID	Microbiome	Local	Landscape	ITS_Run	ITS_Primer_plate	ITS_primer_well	BCName	FullGolay	BarcodeSequence	Description
+NSV5140	ABA-S3	soil	Nucleo de Santa Virginia	Continuous	Run1	P1	A1	kabir_ITS2rcbc0	TCCCTTGTCTCC	TTGTCTCC	NSV5140
+RBSJ3120	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	A10	kabir_ITS2rcbc9	TACAGCGCATAC	GCGCATAC	RBSJ3120
+RBSJ4120	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	A11	kabir_ITS2rcbc10	ACCGGTATGTAC	GTATGTAC	RBSJ4120
+RBSJ5100	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	A12	kabir_ITS2rcbc11	AATTGTGTCGGA	GTGTCGGA	RBSJ5100
+SLP1120	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	A2	kabir_ITS2rcbc1	ACGAGACTGATT	GACTGATT	SLP1120
+SLP2100	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	A3	kabir_ITS2rcbc2	GCTGTACGGATT	TACGGATT	SLP2100
+SLP380	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	A4	kabir_ITS2rcbc3	ATCACCAGGTGT	CCAGGTGT	SLP380
+SLP460	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	A5	kabir_ITS2rcbc4	TGGTCAACGATA	CAACGATA	SLP460
+SLP540	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	A6	kabir_ITS2rcbc5	ATCGCACAGTAA	CACAGTAA	SLP540
+RBSJ120	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	A7	kabir_ITS2rcbc6	GTCGTGTAGCCT	TGTAGCCT	RBSJ120
+RBSJ20	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	A8	kabir_ITS2rcbc7	AGCGGAGGTTAG	GAGGTTAG	RBSJ20
+RBSJ2160	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	A9	kabir_ITS2rcbc8	ATCCTTTGGTTC	TTTGGTTC	RBSJ2160
+NSV5160	ABA-S3	soil	Nucleo de Santa Virginia	Continuous	Run1	P1	B1	kabir_ITS2rcbc12	TGCATACACTGG	TACACTGG	NSV5160
+RBSJ3160	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	B10	kabir_ITS2rcbc21	CAGCTCATCAGC	TCATCAGC	RBSJ3160
+RBSJ4140	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	B11	kabir_ITS2rcbc22	CAAACAACAGCT	CAACAGCT	RBSJ4140
+RBSJ5120	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	B12	kabir_ITS2rcbc23	GCAACACCATCC	CACCATCC	RBSJ5120
+SLP1140	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	B2	kabir_ITS2rcbc13	AGTCGAACGAGG	GAACGAGG	SLP1140
+SLP2120	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	B3	kabir_ITS2rcbc14	ACCAGTGACTCA	GTGACTCA	SLP2120
+SLP3100	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	B4	kabir_ITS2rcbc15	GAATACCAAGTC	ACCAAGTC	SLP3100
+SLP480	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	B5	kabir_ITS2rcbc16	GTAGATCGTGTA	ATCGTGTA	SLP480
+SLP560	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	B6	kabir_ITS2rcbc17	TAACGTGTGTGC	GTGTGTGC	SLP560
+RBSJ140	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	B7	kabir_ITS2rcbc18	CATTATGGCGTG	ATGGCGTG	RBSJ140
+RBSJ220	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	B8	kabir_ITS2rcbc19	CCAATACGCCTG	TACGCCTG	RBSJ220
+RBSJ30	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	B9	kabir_ITS2rcbc20	GATCTGCGATCC	TGCGATCC	RBSJ30
+SLP10	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	C1	kabir_ITS2rcbc24	GCGATATATCGC	TATATCGC	SLP10
+RBSJ40	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	C10	kabir_ITS2rcbc33	CAACTCCCGTGA	TCCCGTGA	RBSJ40
+RBSJ4160	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	C11	kabir_ITS2rcbc34	TTGCGTTAGCAG	GTTAGCAG	RBSJ4160
+RBSJ5140	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	C12	kabir_ITS2rcbc35	TACGAGCCCTAA	AGCCCTAA	RBSJ5140
+SLP1160	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	C2	kabir_ITS2rcbc25	CGAGCAATCCTA	CAATCCTA	SLP1160
+SLP2140	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	C3	kabir_ITS2rcbc26	AGTCGTGCACAT	GTGCACAT	SLP2140
+SLP3120	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	C4	kabir_ITS2rcbc27	GTATCTGCGCGT	CTGCGCGT	SLP3120
+SLP4100	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	C5	kabir_ITS2rcbc28	CGAGGGAAAGTC	GGAAAGTC	SLP4100
+SLP580	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	C6	kabir_ITS2rcbc29	CAAATTCGGGAT	TTCGGGAT	SLP580
+RBSJ160	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	C7	kabir_ITS2rcbc30	AGATTGACCAAC	TGACCAAC	RBSJ160
+RBSJ240	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	C8	kabir_ITS2rcbc31	AGTTACGAGCTA	ACGAGCTA	RBSJ240
+RBSJ320	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	C9	kabir_ITS2rcbc32	GCATATGCACTG	ATGCACTG	RBSJ320
+SLP120	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	D1	kabir_ITS2rcbc36	CACTACGCTAGA	ACGCTAGA	SLP120
+RBSJ420	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	D10	kabir_ITS2rcbc45	TCGGAATTAGAC	AATTAGAC	RBSJ420
+RBSJ50	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	D11	kabir_ITS2rcbc46	TGTGAATTCGGA	AATTCGGA	RBSJ50
+RBSJ5160	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	D12	kabir_ITS2rcbc47	CATTCGTGGCGT	CGTGGCGT	RBSJ5160
+SLP20	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	D2	kabir_ITS2rcbc37	TGCAGTCCTCGA	GTCCTCGA	SLP20
+SLP2160	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	D3	kabir_ITS2rcbc38	ACCATAGCTCCG	TAGCTCCG	SLP2160
+SLP3140	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	D4	kabir_ITS2rcbc39	TCGACATCTCTT	CATCTCTT	SLP3140
+SLP4120	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	D5	kabir_ITS2rcbc40	GAACACTTTGGA	ACTTTGGA	SLP4120
+SLP5100	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	D6	kabir_ITS2rcbc41	GAGCCATCTGTA	CATCTGTA	SLP5100
+RBSJ180	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	D7	kabir_ITS2rcbc42	TTGGGTACACGT	GTACACGT	RBSJ180
+RBSJ260	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	D8	kabir_ITS2rcbc43	AAGGCGCTCCTT	CGCTCCTT	RBSJ260
+RBSJ340	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	D9	kabir_ITS2rcbc44	TAATACGGATCG	ACGGATCG	RBSJ340
+SLP140	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	E1	kabir_ITS2rcbc48	TACTACGTGGCC	ACGTGGCC	SLP140
+RBSJ440	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	E10	kabir_ITS2rcbc57	TATACCGCTGCG	CCGCTGCG	RBSJ440
+RBSJ520	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	E11	kabir_ITS2rcbc58	AGTTGAGGCATT	GAGGCATT	RBSJ520
+CEXT1P3	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	E12	kabir_ITS2rcbc59	ACAATAGACACC	TAGACACC	CEXT1P3
+SLP220	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	E2	kabir_ITS2rcbc49	GGCCAGTTCCTA	AGTTCCTA	SLP220
+SLP30	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	E3	kabir_ITS2rcbc50	GATGTTCGCTAG	TTCGCTAG	SLP30
+SLP3160	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	E4	kabir_ITS2rcbc51	CTATCTCCTGTC	CTCCTGTC	SLP3160
+SLP4140	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	E5	kabir_ITS2rcbc52	ACTCACAGGAAT	ACAGGAAT	SLP4140
+SLP5120	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	E6	kabir_ITS2rcbc53	ATGATGAGCCTC	TGAGCCTC	SLP5120
+RBSJ1100	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	E7	kabir_ITS2rcbc54	GTCGACAGAGGA	ACAGAGGA	RBSJ1100
+RBSJ280	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	E8	kabir_ITS2rcbc55	TGTCGCAAATAG	GCAAATAG	RBSJ280
+RBSJ360	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	E9	kabir_ITS2rcbc56	CATCCCTCTACT	CCTCTACT	RBSJ360
+SLP160	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	F1	kabir_ITS2rcbc60	CGGTCAATTGAC	CAATTGAC	SLP160
+RBSJ460	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	F10	kabir_ITS2rcbc69	TATCGACACAAG	GACACAAG	RBSJ460
+RBSJ540	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	F11	kabir_ITS2rcbc70	GATTCCGGCTCA	CCGGCTCA	RBSJ540
+BAN10	ABA-S3	soil	Bananal	Fragment	Run1	P1	F12	kabir_ITS2rcbc71	CGTAATTGCCGC	ATTGCCGC	BAN10
+SLP240	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	F2	kabir_ITS2rcbc61	GTGGAGTCTCAT	AGTCTCAT	SLP240
+SLP320	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	F3	kabir_ITS2rcbc62	GCTCGAAGATTC	GAAGATTC	SLP320
+SLP40	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	F4	kabir_ITS2rcbc63	AGGCTTACGTGT	TTACGTGT	SLP40
+SLP4160	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	F5	kabir_ITS2rcbc64	TCTCTACCACTC	TACCACTC	SLP4160
+SLP5140	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	F6	kabir_ITS2rcbc65	ACTTCCAACTTC	CCAACTTC	SLP5140
+RBSJ1120	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	F7	kabir_ITS2rcbc66	CTCACCTAGGAA	CCTAGGAA	RBSJ1120
+RBSJ2100	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	F8	kabir_ITS2rcbc67	GTGTTGTCGTGC	TGTCGTGC	RBSJ2100
+RBSJ380	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	F9	kabir_ITS2rcbc68	CCACAGATCGAT	AGATCGAT	RBSJ380
+SLP180	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	G1	kabir_ITS2rcbc72	GGTGACTAGTTC	ACTAGTTC	SLP180
+RBSJ480	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	G10	kabir_ITS2rcbc81	TGCGCTGAATGT	CTGAATGT	RBSJ480
+RBSJ560	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	G11	kabir_ITS2rcbc82	ATGGCTGTCAGT	CTGTCAGT	RBSJ560
+BAN120	ABA-S3	soil	Bananal	Fragment	Run1	P1	G12	kabir_ITS2rcbc83	GTTCTCTTCTCG	TCTTCTCG	BAN120
+SLP260	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	G2	kabir_ITS2rcbc73	ATGGGTTCCGTC	GTTCCGTC	SLP260
+SLP340	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	G3	kabir_ITS2rcbc74	TAGGCATGCTTG	CATGCTTG	SLP340
+SLP420	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	G4	kabir_ITS2rcbc75	AACTAGTTCAGG	AGTTCAGG	SLP420
+SLP50	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	G5	kabir_ITS2rcbc76	ATTCTGCCGAAG	TGCCGAAG	SLP50
+SLP5160	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	G6	kabir_ITS2rcbc77	AGCATGTCCCGT	TGTCCCGT	SLP5160
+RBSJ1140	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	G7	kabir_ITS2rcbc78	GTACGATATGAC	GATATGAC	RBSJ1140
+RBSJ2120	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	G8	kabir_ITS2rcbc79	GTGGTGGTTTCC	TGGTTTCC	RBSJ2120
+RBSJ3100	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	G9	kabir_ITS2rcbc80	TAGTATGCGCAA	ATGCGCAA	RBSJ3100
+SLP1100	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	H1	kabir_ITS2rcbc84	CGTAAGATGCCT	AGATGCCT	SLP1100
+RBSJ4100	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	H10	kabir_ITS2rcbc93	TGGAGTAGGTGG	GTAGGTGG	RBSJ4100
+RBSJ580	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	H11	kabir_ITS2rcbc94	TTGGCTCTATTC	CTCTATTC	RBSJ580
+BAN140	ABA-S3	soil	Bananal	Fragment	Run1	P1	H12	kabir_ITS2rcbc95	GATCCCACGTAC	CCACGTAC	BAN140
+SLP280	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	H2	kabir_ITS2rcbc85	GCGTTCTAGCTG	TCTAGCTG	SLP280
+SLP360	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	H3	kabir_ITS2rcbc86	GTTGTTCTGGGA	TTCTGGGA	SLP360
+SLP440	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	H4	kabir_ITS2rcbc87	GGACTTCCAGCT	TTCCAGCT	SLP440
+SLP520	ABA-S3	soil	Sao Luis do Paraitinga	Fragment	Run1	P1	H5	kabir_ITS2rcbc88	CTCACAACCGTG	CAACCGTG	SLP520
+RBSJ10	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	H6	kabir_ITS2rcbc89	CTGCTATTCCTC	TATTCCTC	RBSJ10
+RBSJ1160	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	H7	kabir_ITS2rcbc90	ATGTCACCGCTG	CACCGCTG	RBSJ1160
+RBSJ2140	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	H8	kabir_ITS2rcbc91	TGTAACGCCGAT	ACGCCGAT	RBSJ2140
+RBSJ3140	ABA-S3	soil	Reserva Biologica Serra do Japi	Continuous	Run1	P1	H9	kabir_ITS2rcbc92	AGCAGAACATCT	GAACATCT	RBSJ3140
+FSW190	ABA-F3	host	Bananal	Fragment	Run1	P2	A1	kabir_ITS2rcbc96	TACCGCTTCTTC	GCTTCTTC	FSW190
+FSW260	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	A10	kabir_ITS2rcbc105	ACTTGGTGTAAG	GGTGTAAG	FSW260
+FSW268	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	A11	kabir_ITS2rcbc106	TCTTGGAGGTCA	GGAGGTCA	FSW268
+CEXT3P9	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	A12	kabir_ITS2rcbc107	TCACCTCCTTGT	CTCCTTGT	CEXT3P9
+FSW198	ABA-F3	host	Bananal	Fragment	Run1	P2	A2	kabir_ITS2rcbc97	TGTGCGATAACA	CGATAACA	FSW198
+FSW206	ABA-F3	host	Bananal	Fragment	Run1	P2	A3	kabir_ITS2rcbc98	GATTATCGACGA	ATCGACGA	FSW206
+FSW213	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	A4	kabir_ITS2rcbc99	GCCTAGCCCAAT	AGCCCAAT	FSW213
+FSW221	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	A5	kabir_ITS2rcbc100	GATGTATGTGGT	TATGTGGT	FSW221
+FSW229	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	A6	kabir_ITS2rcbc101	ACTCCTTGTGTT	CTTGTGTT	FSW229
+FSW237	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	A7	kabir_ITS2rcbc102	GTCACGGACATT	CGGACATT	FSW237
+FSW244	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	A8	kabir_ITS2rcbc103	GCGAGCGAAGTA	GCGAAGTA	FSW244
+FSW252	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	A9	kabir_ITS2rcbc104	ATCTACCGAAGC	ACCGAAGC	FSW252
+FSW191	ABA-F3	host	Bananal	Fragment	Run1	P2	B1	kabir_ITS2rcbc108	GCACACCTGATA	ACCTGATA	FSW191
+FSW261	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	B10	kabir_ITS2rcbc117	GTATTTCGGACG	TTCGGACG	FSW261
+FSW269	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	B11	kabir_ITS2rcbc118	TATCTATCCTGC	TATCCTGC	FSW269
+FSW276	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	B12	kabir_ITS2rcbc119	TTGCCAAGAGTC	CAAGAGTC	FSW276
+FSW199	ABA-F3	host	Bananal	Fragment	Run1	P2	B2	kabir_ITS2rcbc109	GCGACAATTACA	CAATTACA	FSW199
+FSW207	ABA-F3	host	Bananal	Fragment	Run1	P2	B3	kabir_ITS2rcbc110	TCATGCTCCATT	GCTCCATT	FSW207
+FSW214	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	B4	kabir_ITS2rcbc111	AGCTGTCAAGCT	GTCAAGCT	FSW214
+FSW222	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	B5	kabir_ITS2rcbc112	GAGAGCAACAGA	GCAACAGA	FSW222
+FSW230	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	B6	kabir_ITS2rcbc113	TACTCGGGAACT	CGGGAACT	FSW230
+FSW238	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	B7	kabir_ITS2rcbc114	CGTGCTTAGGCT	CTTAGGCT	FSW238
+FSW245	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	B8	kabir_ITS2rcbc115	TACCGAAGGTAT	GAAGGTAT	FSW245
+FSW253	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	B9	kabir_ITS2rcbc116	CACTCATCATTC	CATCATTC	FSW253
+FSW192	ABA-F3	host	Bananal	Fragment	Run1	P2	C1	kabir_ITS2rcbc120	AGTAGCGGAAGA	GCGGAAGA	FSW192
+FSW262	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	C10	kabir_ITS2rcbc129	GACATTGTCACG	TTGTCACG	FSW262
+FSW270	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	C11	kabir_ITS2rcbc130	GCCAACAACCAT	ACAACCAT	FSW270
+FSW277	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	C12	kabir_ITS2rcbc131	ATCAGTACTAGG	GTACTAGG	FSW277
+FSW200	ABA-F3	host	Bananal	Fragment	Run1	P2	C2	kabir_ITS2rcbc121	GCAATTAGGTAC	TTAGGTAC	FSW200
+FSW208	ABA-F3	host	Bananal	Fragment	Run1	P2	C3	kabir_ITS2rcbc122	CATACCGTGAGT	CCGTGAGT	FSW208
+FSW215	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	C4	kabir_ITS2rcbc123	ATGTGTGTAGAC	GTGTAGAC	FSW215
+FSW223	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	C5	kabir_ITS2rcbc124	CCTGCGAAGTAT	CGAAGTAT	FSW223
+FSW231	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	C6	kabir_ITS2rcbc125	TTCTCTCGACAT	CTCGACAT	FSW231
+FSW239	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	C7	kabir_ITS2rcbc126	GCTCTCCGTAGA	TCCGTAGA	FSW239
+FSW246	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	C8	kabir_ITS2rcbc127	GTTAAGCTGACC	AGCTGACC	FSW246
+FSW254	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	C9	kabir_ITS2rcbc128	ATGCCATGCCGT	CATGCCGT	FSW254
+FSW193	ABA-F3	host	Bananal	Fragment	Run1	P2	D1	kabir_ITS2rcbc132	TCCTCGAGCGAT	CGAGCGAT	FSW193
+FSW263	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	D10	kabir_ITS2rcbc141	GGATCGTAATAC	CGTAATAC	FSW263
+FSW271	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	D11	kabir_ITS2rcbc142	GCATAGCATCAA	AGCATCAA	FSW271
+FSW278	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	D12	kabir_ITS2rcbc143	GTGTTAGATGTG	TAGATGTG	FSW278
+FSW201	ABA-F3	host	Bananal	Fragment	Run1	P2	D2	kabir_ITS2rcbc133	ACCCAAGCGTTA	AAGCGTTA	FSW201
+FSW209	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	D3	kabir_ITS2rcbc134	TGCAGCAAGATT	GCAAGATT	FSW209
+FSW216	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	D4	kabir_ITS2rcbc135	AGCAACATTGCA	ACATTGCA	FSW216
+FSW224	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	D5	kabir_ITS2rcbc136	GATGTGGTGTTA	TGGTGTTA	FSW224
+FSW232	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	D6	kabir_ITS2rcbc137	CAGAAATGTGTC	AATGTGTC	FSW232
+FSW240	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	D7	kabir_ITS2rcbc138	GTAGAGGTAGAG	AGGTAGAG	FSW240
+FSW247	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	D8	kabir_ITS2rcbc139	CGTGATCCGCTA	ATCCGCTA	FSW247
+FSW255	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	D9	kabir_ITS2rcbc140	GGTTATTTGGCG	ATTTGGCG	FSW255
+FSW194	ABA-F3	host	Bananal	Fragment	Run1	P2	E1	kabir_ITS2rcbc144	TTAGAGCCATGC	AGCCATGC	FSW194
+FSW264	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	E10	kabir_ITS2rcbc153	GAAACATCCCAC	CATCCCAC	FSW264
+FSW272	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	E11	kabir_ITS2rcbc154	CGTACTCTCGAG	CTCTCGAG	FSW272
+FSW279	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	E12	kabir_ITS2rcbc155	TCAGTTCTCGTT	TTCTCGTT	FSW279
+FSW202	ABA-F3	host	Bananal	Fragment	Run1	P2	E2	kabir_ITS2rcbc145	TGAACCCTATGG	CCCTATGG	FSW202
+CEXT1P9	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	E3	kabir_ITS2rcbc146	AGAGTCTTGCCA	TCTTGCCA	CEXT1P9
+FSW217	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	E4	kabir_ITS2rcbc147	ACAACACTCCGA	CACTCCGA	FSW217
+FSW225	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	E5	kabir_ITS2rcbc148	CGATGCTGTTGA	GCTGTTGA	FSW225
+FSW233	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	E6	kabir_ITS2rcbc149	ACGACTGCATAA	CTGCATAA	FSW233
+FSW241	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	E7	kabir_ITS2rcbc150	ACGCGAACTAAT	GAACTAAT	FSW241
+FSW248	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	E8	kabir_ITS2rcbc151	AGCTATGTATGG	ATGTATGG	FSW248
+FSW256	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	E9	kabir_ITS2rcbc152	ACGGGTCATCAT	GTCATCAT	FSW256
+FSW195	ABA-F3	host	Bananal	Fragment	Run1	P2	F1	kabir_ITS2rcbc156	TCGTGCGTGTTG	GCGTGTTG	FSW195
+FSW265	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	F10	kabir_ITS2rcbc165	TGCCGTATGCCA	GTATGCCA	FSW265
+FSW273	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	F11	kabir_ITS2rcbc166	CGTGACAATAGT	ACAATAGT	FSW273
+FSW280	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	F12	kabir_ITS2rcbc167	CGCTACAACTCG	ACAACTCG	FSW280
+FSW203	ABA-F3	host	Bananal	Fragment	Run1	P2	F2	kabir_ITS2rcbc157	GTTATCGCATGG	TCGCATGG	FSW203
+FSW210	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	F3	kabir_ITS2rcbc158	GATCACGAGAGG	ACGAGAGG	FSW210
+FSW218	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	F4	kabir_ITS2rcbc159	GTAAATTCAGGC	ATTCAGGC	FSW218
+FSW226	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	F5	kabir_ITS2rcbc160	AGTGTTTCGGAC	TTTCGGAC	FSW226
+FSW234	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	F6	kabir_ITS2rcbc161	ACACGCGGTTTA	GCGGTTTA	FSW234
+FSW242	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	F7	kabir_ITS2rcbc162	TGGCAAATCTAG	AAATCTAG	FSW242
+FSW249	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	F8	kabir_ITS2rcbc163	CACCTTACCTTA	TTACCTTA	FSW249
+FSW257	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	F9	kabir_ITS2rcbc164	TTAACCTTCCTG	CCTTCCTG	FSW257
+FSW196	ABA-F3	host	Bananal	Fragment	Run1	P2	G1	kabir_ITS2rcbc168	TTAAGACAGTCG	GACAGTCG	FSW196
+FSW266	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	G10	kabir_ITS2rcbc177	TTGATCCGGTAG	TCCGGTAG	FSW266
+FSW274	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	G11	kabir_ITS2rcbc178	CGGGTGTTTGCT	TGTTTGCT	FSW274
+FSW281	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	G12	kabir_ITS2rcbc179	TTGACCGCGGTT	CCGCGGTT	FSW281
+FSW204	ABA-F3	host	Bananal	Fragment	Run1	P2	G2	kabir_ITS2rcbc169	TCTGCACTGAGC	CACTGAGC	FSW204
+FSW211	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	G3	kabir_ITS2rcbc170	CGCAGATTAGTA	GATTAGTA	FSW211
+FSW219C	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	G4	kabir_ITS2rcbc171	TGGGTCCCACAT	TCCCACAT	FSW219C
+FSW227	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	G5	kabir_ITS2rcbc172	CACTGGTGCATA	GGTGCATA	FSW227
+FSW235	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	G6	kabir_ITS2rcbc173	AACGTAGGCTCT	TAGGCTCT	FSW235
+FSW243	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	G7	kabir_ITS2rcbc174	AGTTGTAGTCCG	GTAGTCCG	FSW243
+FSW250	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	G8	kabir_ITS2rcbc175	TCGTCAAACCCG	CAAACCCG	FSW250
+FSW258	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	G9	kabir_ITS2rcbc176	TAATCGGTGCCA	CGGTGCCA	FSW258
+FSW197	ABA-F3	host	Bananal	Fragment	Run1	P2	H1	kabir_ITS2rcbc180	GTGCAACCAATC	AACCAATC	FSW197
+FSW267C	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	H10	kabir_ITS2rcbc189	TGTAAGACTTGG	AGACTTGG	FSW267C
+FSW275	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	H11	kabir_ITS2rcbc190	CGGATCTAGTGT	TCTAGTGT	FSW275
+FSW282	ABA-F3	host	Pilar do Sul	Continuous	Run1	P2	H12	kabir_ITS2rcbc191	CGATCTTCGAGC	CTTCGAGC	FSW282
+FSW205	ABA-F3	host	Bananal	Fragment	Run1	P2	H2	kabir_ITS2rcbc181	GCTTGAGCTTGA	GAGCTTGA	FSW205
+FSW212	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	H3	kabir_ITS2rcbc182	CGCTGTGGATTA	GTGGATTA	FSW212
+FSW220	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	H4	kabir_ITS2rcbc183	CTGTCAGTGACC	CAGTGACC	FSW220
+FSW228	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	H5	kabir_ITS2rcbc184	ACGATTCGAGTC	TTCGAGTC	FSW228
+FSW236	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	H6	kabir_ITS2rcbc185	GGTTCGGTCCAT	CGGTCCAT	FSW236
+CEXT2P9	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	H7	kabir_ITS2rcbc186	CTGATCCATCTT	TCCATCTT	CEXT2P9
+FSW251	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	H8	kabir_ITS2rcbc187	TATGTGCCGGCT	TGCCGGCT	FSW251
+FSW259	ABA-F3	host	Sao Jose dos Campos	Fragment	Run1	P2	H9	kabir_ITS2rcbc188	TGGTCGCATCGT	CGCATCGT	FSW259
+FSW1	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	A1	kabir_ITS2rcbc192	GTCGAATTTGCG	AATTTGCG	FSW1
+FSW72	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	A10	kabir_ITS2rcbc201	CGACTCTAAACG	TCTAAACG	FSW72
+FSW80	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	A11	kabir_ITS2rcbc202	GTCTTCAGCAAG	TCAGCAAG	FSW80
+FSW87	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	A12	kabir_ITS2rcbc203	CGGATAACCTCC	TAACCTCC	FSW87
+FSW9	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	A2	kabir_ITS2rcbc193	GCATCAGAGTTA	CAGAGTTA	FSW9
+FSW17	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	A3	kabir_ITS2rcbc194	GTGGTCATCGTA	TCATCGTA	FSW17
+FSW25C	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	A4	kabir_ITS2rcbc195	CTGAAGGGCGAA	AGGGCGAA	FSW25C
+FSW33	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	A5	kabir_ITS2rcbc196	CGCTCACAGAAT	CACAGAAT	FSW33
+FSW41	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	A6	kabir_ITS2rcbc197	ATTCGGTAGTGC	GGTAGTGC	FSW41
+CEXT1P7	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	A7	kabir_ITS2rcbc198	CGAGCTGTTACC	CTGTTACC	CEXT1P7
+FSW56	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	A8	kabir_ITS2rcbc199	CAACACATGCTG	ACATGCTG	FSW56
+FSW64	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	A9	kabir_ITS2rcbc200	ATTCTCTCACGT	TCTCACGT	FSW64
+FSW2	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	B1	kabir_ITS2rcbc204	AGGGTGACTTTA	TGACTTTA	FSW2
+FSW73	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	B10	kabir_ITS2rcbc213	AAGACAGCTATC	CAGCTATC	FSW73
+FSW81	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	B11	kabir_ITS2rcbc214	ATTGACCGGTCA	ACCGGTCA	FSW81
+FSW88	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	B12	kabir_ITS2rcbc215	TTCTCCATCACA	CCATCACA	FSW88
+FSW10	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	B2	kabir_ITS2rcbc205	GACTTCATGCGA	TCATGCGA	FSW10
+FSW18	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	B3	kabir_ITS2rcbc206	GCCTGTCTGCAA	GTCTGCAA	FSW18
+FSW26	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	B4	kabir_ITS2rcbc207	ACTGATGGCCTC	ATGGCCTC	FSW26
+FSW34	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	B5	kabir_ITS2rcbc208	TTCGATGCCGCA	ATGCCGCA	FSW34
+FSW42	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	B6	kabir_ITS2rcbc209	TGTGGCTCGTGT	GCTCGTGT	FSW42
+FSW49	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	B7	kabir_ITS2rcbc210	AACTTTCAGGAG	TTCAGGAG	FSW49
+FSW57	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	B8	kabir_ITS2rcbc211	TGCACGTGATAA	CGTGATAA	FSW57
+FSW65	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	B9	kabir_ITS2rcbc212	GTTCGGTGTCCA	GGTGTCCA	FSW65
+FSW3	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	C1	kabir_ITS2rcbc216	CGTAGGTAGAGG	GGTAGAGG	FSW3
+FSW74	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	C10	kabir_ITS2rcbc225	GTCGCCGTACAT	CCGTACAT	FSW74
+CEXT2P7	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	C11	kabir_ITS2rcbc226	GGAATCCGATTA	TCCGATTA	CEXT2P7
+FSW89	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	C12	kabir_ITS2rcbc227	CACCCGATGGTT	CGATGGTT	FSW89
+FSW11	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	C2	kabir_ITS2rcbc217	ATTTAGGACGAC	AGGACGAC	FSW11
+FSW19	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	C3	kabir_ITS2rcbc218	GGATAGCCAAGG	AGCCAAGG	FSW19
+FSW27	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	C4	kabir_ITS2rcbc219	TGGTTGGTTACG	TGGTTACG	FSW27
+FSW35	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	C5	kabir_ITS2rcbc220	GTCGTCCAAATG	TCCAAATG	FSW35
+FSW43	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	C6	kabir_ITS2rcbc221	CAACGTGCTCCA	GTGCTCCA	FSW43
+FSW50	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	C7	kabir_ITS2rcbc222	TACACAAGTCGC	CAAGTCGC	FSW50
+FSW58	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	C8	kabir_ITS2rcbc223	GCGTCCATGAAT	CCATGAAT	FSW58
+FSW66	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	C9	kabir_ITS2rcbc224	GTAATGCGTAAC	TGCGTAAC	FSW66
+FSW4	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	D1	kabir_ITS2rcbc228	TTCTGAGAGGTA	GAGAGGTA	FSW4
+FSW75	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	D10	kabir_ITS2rcbc237	GGTTTAACACGC	TAACACGC	FSW75
+FSW82	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	D11	kabir_ITS2rcbc238	AGACAGTAGGAG	AGTAGGAG	FSW82
+FSW90	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	D12	kabir_ITS2rcbc239	GCCACGACTTAC	CGACTTAC	FSW90
+FSW12	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	D2	kabir_ITS2rcbc229	ATCCCTACGGAA	CTACGGAA	FSW12
+FSW20	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	D3	kabir_ITS2rcbc230	GGTTCCATTAGG	CCATTAGG	FSW20
+FSW28	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	D4	kabir_ITS2rcbc231	GTGTTCCCAGAA	TCCCAGAA	FSW28
+FSW36	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	D5	kabir_ITS2rcbc232	CCGAGGTATAAT	GGTATAAT	FSW36
+FSW44	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	D6	kabir_ITS2rcbc233	AGCGTAATTAGC	TAATTAGC	FSW44
+FSW51	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	D7	kabir_ITS2rcbc234	CTCGTGAATGAC	TGAATGAC	FSW51
+FSW59	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	D8	kabir_ITS2rcbc235	AGGTGAGTTCTA	GAGTTCTA	FSW59
+FSW67	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	D9	kabir_ITS2rcbc236	CCTGTCCTATCT	TCCTATCT	FSW67
+FSW5	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	E1	kabir_ITS2rcbc240	ATTGTTCCTACC	TTCCTACC	FSW5
+FSW76	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	E10	kabir_ITS2rcbc249	CTCCCTTTGTGT	CTTTGTGT	FSW76
+FSW83	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	E11	kabir_ITS2rcbc250	AGCTGCACCTAA	GCACCTAA	FSW83
+FSW91	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	E12	kabir_ITS2rcbc251	CCTTGACCGATG	GACCGATG	FSW91
+FSW13	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	E2	kabir_ITS2rcbc241	GCCGTAAACTTG	TAAACTTG	FSW13
+FSW21	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	E3	kabir_ITS2rcbc242	GCAGATTTCCAG	ATTTCCAG	FSW21
+FSW29	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	E4	kabir_ITS2rcbc243	AGATGATCAGTC	GATCAGTC	FSW29
+FSW37	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	E5	kabir_ITS2rcbc244	GAGACGTGTTCT	CGTGTTCT	FSW37
+FSW45	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	E6	kabir_ITS2rcbc245	TATCACCGGCAC	ACCGGCAC	FSW45
+FSW52	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	E7	kabir_ITS2rcbc246	TATGCCAGAGAT	CCAGAGAT	FSW52
+FSW60	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	E8	kabir_ITS2rcbc247	AGGTCCAAATCA	CCAAATCA	FSW60
+FSW68	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	E9	kabir_ITS2rcbc248	ACCGTGCTCACA	TGCTCACA	FSW68
+FSW6	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	F1	kabir_ITS2rcbc252	CTATCATCCTCA	CATCCTCA	FSW6
+FSW77	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	F10	kabir_ITS2rcbc261	GGTCTCCTACAG	TCCTACAG	FSW77
+FSW84	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	F11	kabir_ITS2rcbc262	ACTGACTTAAGG	ACTTAAGG	FSW84
+FSW92	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	F12	kabir_ITS2rcbc263	GATGCTGCCGTT	CTGCCGTT	FSW92
+FSW14	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	F2	kabir_ITS2rcbc253	ACTCTAGCCGGT	TAGCCGGT	FSW14
+FSW22	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	F3	kabir_ITS2rcbc254	CGATAGGCCTTA	AGGCCTTA	FSW22
+FSW30	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	F4	kabir_ITS2rcbc255	AATGACCTCGTG	ACCTCGTG	FSW30
+FSW38	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	F5	kabir_ITS2rcbc256	CTTAGGCATGTG	GGCATGTG	FSW38
+FSW46	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	F6	kabir_ITS2rcbc257	CCAGATATAGCA	ATATAGCA	FSW46
+FSW53	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	F7	kabir_ITS2rcbc258	GAGAGTCCACTT	GTCCACTT	FSW53
+FSW61C	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	F8	kabir_ITS2rcbc259	GAACGGGACGTA	GGGACGTA	FSW61C
+FSW69	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	F9	kabir_ITS2rcbc260	ACGTGTAGGCTT	GTAGGCTT	FSW69
+FSW7	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	G1	kabir_ITS2rcbc264	TTCCTAGGCCAG	TAGGCCAG	FSW7
+FSW78	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	G10	kabir_ITS2rcbc273	ATAGCGAACTCA	CGAACTCA	FSW78
+FSW85	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	G11	kabir_ITS2rcbc274	TAACGCTGTGTG	GCTGTGTG	FSW85
+FSW93	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	G12	kabir_ITS2rcbc275	AACCAAACTCGA	AAACTCGA	FSW93
+FSW15	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	G2	kabir_ITS2rcbc265	ATTAAGCCTGGA	AGCCTGGA	FSW15
+FSW23	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	G3	kabir_ITS2rcbc266	TGGCTTTCTATC	TTTCTATC	FSW23
+FSW31	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	G4	kabir_ITS2rcbc267	ACAGCTCAAACA	CTCAAACA	FSW31
+FSW39	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	G5	kabir_ITS2rcbc268	GAGCGTATCCAT	GTATCCAT	FSW39
+FSW47	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	G6	kabir_ITS2rcbc269	ATGGGCGAATGG	GCGAATGG	FSW47
+FSW54	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	G7	kabir_ITS2rcbc270	GATCTCTGGGTA	TCTGGGTA	FSW54
+FSW62	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	G8	kabir_ITS2rcbc271	CATCATACGGGT	ATACGGGT	FSW62
+FSW70	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	G9	kabir_ITS2rcbc272	TACGGATTATGG	GATTATGG	FSW70
+FSW8	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	H1	kabir_ITS2rcbc276	GCCGTCTCGTAA	TCTCGTAA	FSW8
+FSW79	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	H10	kabir_ITS2rcbc285	CTTGAGAAATCG	AGAAATCG	FSW79
+FSW86C	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	H11	kabir_ITS2rcbc286	CTACACAGCACA	ACAGCACA	FSW86C
+FSW94	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	H12	kabir_ITS2rcbc287	GAAATGCTACGT	TGCTACGT	FSW94
+FSW16	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	H2	kabir_ITS2rcbc277	CTGGGTATCTCG	GTATCTCG	FSW16
+FSW24	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	H3	kabir_ITS2rcbc278	GACTACCCGTTG	ACCCGTTG	FSW24
+FSW32	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	H4	kabir_ITS2rcbc279	GCGTTGCAAACT	TGCAAACT	FSW32
+FSW40	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	H5	kabir_ITS2rcbc280	AACCGCATAAGT	GCATAAGT	FSW40
+FSW48	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	H6	kabir_ITS2rcbc281	ACCTTACACCTT	TACACCTT	FSW48
+FSW55	ABA-F1	host	Estacao Biologica de Boraceia	Continuous	Run1	P3	H7	kabir_ITS2rcbc282	GTAGGTGCTTAC	GTGCTTAC	FSW55
+FSW63	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	H8	kabir_ITS2rcbc283	CGCATTTGGATG	TTTGGATG	FSW63
+FSW71	ABA-F1	host	Vargem Grande Paulista	Fragment	Run1	P3	H9	kabir_ITS2rcbc284	ATAACATGTGCG	CATGTGCG	FSW71
+FSW95	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	A1	kabir_ITS2rcbc288	TCTGAGGTTGCC	AGGTTGCC	FSW95
+FSW166	ABA-F2	host	Bananal	Fragment	Run1	P4	A10	kabir_ITS2rcbc297	GCGAAGTTGGGA	AGTTGGGA	FSW166
+FSW174	ABA-F2	host	Bananal	Fragment	Run1	P4	A11	kabir_ITS2rcbc298	GCATTCGGCGTT	TCGGCGTT	FSW174
+FSW182	ABA-F2	host	Bananal	Fragment	Run1	P4	A12	kabir_ITS2rcbc299	CGCCATTGTGCA	ATTGTGCA	FSW182
+FSW103	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	A2	kabir_ITS2rcbc289	GATCATTCTCTC	ATTCTCTC	FSW103
+FSW112C	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	A3	kabir_ITS2rcbc290	AGACATACCGTA	ATACCGTA	FSW112C
+CEXT1P8	ABA-F2	host	Nucleo de Santa Virginia	Continuous	Run1	P4	A4	kabir_ITS2rcbc291	GATCCTCATGCG	CTCATGCG	CEXT1P8
+FSW127	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	A5	kabir_ITS2rcbc292	ATTATCGTCCCT	TCGTCCCT	FSW127
+FSW135	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	A6	kabir_ITS2rcbc293	CCAGACCGCTAT	ACCGCTAT	FSW135
+FSW143	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	A7	kabir_ITS2rcbc294	AGCTCTAGAAAC	CTAGAAAC	FSW143
+FSW151	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	A8	kabir_ITS2rcbc295	TCCATCGACGTG	TCGACGTG	FSW151
+FSW159	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	A9	kabir_ITS2rcbc296	CGATGTGTGGTT	GTGTGGTT	FSW159
+FSW96	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	B1	kabir_ITS2rcbc300	TCCAACTGCAGA	ACTGCAGA	FSW96
+FSW167	ABA-F2	host	Bananal	Fragment	Run1	P4	B10	kabir_ITS2rcbc309	CGCACTACGCAT	CTACGCAT	FSW167
+FSW175C	ABA-F2	host	Bananal	Fragment	Run1	P4	B11	kabir_ITS2rcbc310	CAGTCGTTAAGA	CGTTAAGA	FSW175C
+FSW183	ABA-F2	host	Bananal	Fragment	Run1	P4	B12	kabir_ITS2rcbc311	CTACGAAAGCCT	GAAAGCCT	FSW183
+FSW104	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	B2	kabir_ITS2rcbc301	TAAAGACCCGTA	GACCCGTA	FSW104
+FSW113	ABA-F2	host	Nucleo de Santa Virginia	Continuous	Run1	P4	B3	kabir_ITS2rcbc302	TGTATCTTCACC	TCTTCACC	FSW113
+FSW120	ABA-F2	host	Nucleo de Santa Virginia	Continuous	Run1	P4	B4	kabir_ITS2rcbc303	GACTGACTCGTC	GACTCGTC	FSW120
+FSW128	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	B5	kabir_ITS2rcbc304	TCGTGGATAGCT	GGATAGCT	FSW128
+FSW136	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	B6	kabir_ITS2rcbc305	GACGCACTAACT	CACTAACT	FSW136
+FSW144	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	B7	kabir_ITS2rcbc306	GGCGATTTACGT	ATTTACGT	FSW144
+FSW152	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	B8	kabir_ITS2rcbc307	TAAGGCATCGCT	GCATCGCT	FSW152
+FSW160	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	B9	kabir_ITS2rcbc308	ACCCATACAGCC	ATACAGCC	FSW160
+FSW97	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	C1	kabir_ITS2rcbc312	ATAATTGCCGAG	TTGCCGAG	FSW97
+FSW168	ABA-F2	host	Bananal	Fragment	Run1	P4	C10	kabir_ITS2rcbc321	TCGCCGTGTACA	CGTGTACA	FSW168
+FSW176	ABA-F2	host	Bananal	Fragment	Run1	P4	C11	kabir_ITS2rcbc322	AACTGCGATATG	GCGATATG	FSW176
+FSW184	ABA-F2	host	Bananal	Fragment	Run1	P4	C12	kabir_ITS2rcbc323	CTTCCAACTCAT	CAACTCAT	FSW184
+FSW105	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	C2	kabir_ITS2rcbc313	GGCATGTTATCG	TGTTATCG	FSW105
+FSW114	ABA-F2	host	Nucleo de Santa Virginia	Continuous	Run1	P4	C3	kabir_ITS2rcbc314	AGGCACAGTAGG	ACAGTAGG	FSW114
+FSW121	ABA-F2	host	Nucleo de Santa Virginia	Continuous	Run1	P4	C4	kabir_ITS2rcbc315	CTACTTACATCC	TTACATCC	FSW121
+FSW129	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	C5	kabir_ITS2rcbc316	CTCTTCTGATCA	TCTGATCA	FSW129
+FSW137	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	C6	kabir_ITS2rcbc317	ATGCTAACCACG	TAACCACG	FSW137
+FSW145	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	C7	kabir_ITS2rcbc318	ACCAATCTCGGC	ATCTCGGC	FSW145
+FSW153	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	C8	kabir_ITS2rcbc319	TATCCAAGCGCA	CAAGCGCA	FSW153
+FSW161	ABA-F2	host	Bananal	Fragment	Run1	P4	C9	kabir_ITS2rcbc320	GTACTGAAGATC	TGAAGATC	FSW161
+FSW98	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	D1	kabir_ITS2rcbc324	GAGATCGCCTAT	TCGCCTAT	FSW98
+FSW169	ABA-F2	host	Bananal	Fragment	Run1	P4	D10	kabir_ITS2rcbc333	CGGAGTAATCCT	GTAATCCT	FSW169
+FSW177	ABA-F2	host	Bananal	Fragment	Run1	P4	D11	kabir_ITS2rcbc334	CTGTGTCCATGG	GTCCATGG	FSW177
+FSW185	ABA-F2	host	Bananal	Fragment	Run1	P4	D12	kabir_ITS2rcbc335	CTTCGCGGATGT	GCGGATGT	FSW185
+FSW107	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	D2	kabir_ITS2rcbc325	TGTACATCGCCG	CATCGCCG	FSW107
+FSW115	ABA-F2	host	Nucleo de Santa Virginia	Continuous	Run1	P4	D3	kabir_ITS2rcbc326	TGTTAAGCAGCA	AAGCAGCA	FSW115
+FSW122	ABA-F2	host	Nucleo de Santa Virginia	Continuous	Run1	P4	D4	kabir_ITS2rcbc327	ACGGCGTTATGT	CGTTATGT	FSW122
+FSW130	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	D5	kabir_ITS2rcbc328	ACTTTGCTTTGC	TGCTTTGC	FSW130
+FSW138	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	D6	kabir_ITS2rcbc329	CAAAGCGGTATT	GCGGTATT	FSW138
+FSW146	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	D7	kabir_ITS2rcbc330	CGAAACTACGTA	ACTACGTA	FSW146
+FSW154	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	D8	kabir_ITS2rcbc331	GAGGACCAGCAA	ACCAGCAA	FSW154
+FSW162	ABA-F2	host	Bananal	Fragment	Run1	P4	D9	kabir_ITS2rcbc332	AATAGCATGTCG	GCATGTCG	FSW162
+FSW99	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	E1	kabir_ITS2rcbc336	ATAGGCTGTAGT	GCTGTAGT	FSW99
+FSW170	ABA-F2	host	Bananal	Fragment	Run1	P4	E10	kabir_ITS2rcbc345	AAGTCACACACA	CACACACA	FSW170
+FSW178	ABA-F2	host	Bananal	Fragment	Run1	P4	E11	kabir_ITS2rcbc346	GCTGTGATTCGA	TGATTCGA	FSW178
+FSW186	ABA-F2	host	Bananal	Fragment	Run1	P4	E12	kabir_ITS2rcbc347	CTAGCTATGGAC	CTATGGAC	FSW186
+FSW108	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	E2	kabir_ITS2rcbc337	TGTGTAGCCATG	TAGCCATG	FSW108
+FSW116	ABA-F2	host	Nucleo de Santa Virginia	Continuous	Run1	P4	E3	kabir_ITS2rcbc338	AAGGGCGCTGAA	GCGCTGAA	FSW116
+FSW123	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	E4	kabir_ITS2rcbc339	GTTTCCGTGGTG	CCGTGGTG	FSW123
+FSW131	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	E5	kabir_ITS2rcbc340	AGGAACCAGACG	ACCAGACG	FSW131
+FSW139C	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	E6	kabir_ITS2rcbc341	TAATGCCCAGGT	GCCCAGGT	FSW139C
+FSW147	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	E7	kabir_ITS2rcbc342	TATGAACGTCCG	AACGTCCG	FSW147
+FSW155	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	E8	kabir_ITS2rcbc343	CCACATTGGGTC	ATTGGGTC	FSW155
+CEXT2P8	ABA-F2	host	Bananal	Fragment	Run1	P4	E9	kabir_ITS2rcbc344	TCAGTCAGATGA	TCAGATGA	CEXT2P8
+FSW100	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	F1	kabir_ITS2rcbc348	CTTGACGAGGTT	ACGAGGTT	FSW100
+FSW171	ABA-F2	host	Bananal	Fragment	Run1	P4	F10	kabir_ITS2rcbc357	GGCTGCATACTC	GCATACTC	FSW171
+FSW179	ABA-F2	host	Bananal	Fragment	Run1	P4	F11	kabir_ITS2rcbc358	TTGGTAAAGTGC	TAAAGTGC	FSW179
+FSW187	ABA-F2	host	Bananal	Fragment	Run1	P4	F12	kabir_ITS2rcbc359	AAGTGGCTATCC	GGCTATCC	FSW187
+FSW109	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	F2	kabir_ITS2rcbc349	ACCTGGGAATAT	GGGAATAT	FSW109
+FSW117	ABA-F2	host	Nucleo de Santa Virginia	Continuous	Run1	P4	F3	kabir_ITS2rcbc350	CTCTGCCTAATT	GCCTAATT	FSW117
+FSW124	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	F4	kabir_ITS2rcbc351	ATATGACCCAGC	GACCCAGC	FSW124
+FSW132	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	F5	kabir_ITS2rcbc352	CTCTATTCCACC	ATTCCACC	FSW132
+FSW140	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	F6	kabir_ITS2rcbc353	ATTGAGTGAGTC	AGTGAGTC	FSW140
+FSW148C	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	F7	kabir_ITS2rcbc354	TTATGGTACGGA	GGTACGGA	FSW148C
+FSW156	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	F8	kabir_ITS2rcbc355	GCTAGTTATGGA	GTTATGGA	FSW156
+FSW163	ABA-F2	host	Bananal	Fragment	Run1	P4	F9	kabir_ITS2rcbc356	CAGATTAACCAG	TTAACCAG	FSW163
+FSW101	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	G1	kabir_ITS2rcbc360	AACCGATGTACC	GATGTACC	FSW101
+FSW172	ABA-F2	host	Bananal	Fragment	Run1	P4	G10	kabir_ITS2rcbc369	GTTCCTCCATTA	CTCCATTA	FSW172
+FSW180	ABA-F2	host	Bananal	Fragment	Run1	P4	G11	kabir_ITS2rcbc370	ACCTGTCCTTTC	GTCCTTTC	FSW180
+FSW188	ABA-F2	host	Bananal	Fragment	Run1	P4	G12	kabir_ITS2rcbc371	GTTCACGCCCAA	ACGCCCAA	FSW188
+FSW110	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	G2	kabir_ITS2rcbc361	TCGATTGGCCGT	TTGGCCGT	FSW110
+FSW118	ABA-F2	host	Nucleo de Santa Virginia	Continuous	Run1	P4	G3	kabir_ITS2rcbc362	GCATTACTGGAC	TACTGGAC	FSW118
+FSW125	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	G4	kabir_ITS2rcbc363	TTGGGCCACATA	GCCACATA	FSW125
+FSW133	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	G5	kabir_ITS2rcbc364	CACACAAAGTCA	CAAAGTCA	FSW133
+FSW141	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	G6	kabir_ITS2rcbc365	GCCAAGGATAGG	AGGATAGG	FSW141
+FSW149	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	G7	kabir_ITS2rcbc366	CGCCACGTGTAT	ACGTGTAT	FSW149
+FSW157	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	G8	kabir_ITS2rcbc367	GCAACCGATTGT	CCGATTGT	FSW157
+FSW164	ABA-F2	host	Bananal	Fragment	Run1	P4	G9	kabir_ITS2rcbc368	CATGTGCTTAGG	TGCTTAGG	FSW164
+FSW102	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	H1	kabir_ITS2rcbc372	CGATCGAACACT	CGAACACT	FSW102
+FSW173	ABA-F2	host	Bananal	Fragment	Run1	P4	H10	kabir_ITS2rcbc381	GCTATCAAGACA	TCAAGACA	FSW173
+FSW181	ABA-F2	host	Bananal	Fragment	Run1	P4	H11	kabir_ITS2rcbc382	CCGTGACAACTC	GACAACTC	FSW181
+FSW189	ABA-F2	host	Bananal	Fragment	Run1	P4	H12	kabir_ITS2rcbc383	CGTTCCTTGTTA	CCTTGTTA	FSW189
+FSW111	ABA-F2	host	Vargem Grande Paulista	Fragment	Run1	P4	H2	kabir_ITS2rcbc373	CATGCCAACATG	CCAACATG	FSW111
+FSW119	ABA-F2	host	Nucleo de Santa Virginia	Continuous	Run1	P4	H3	kabir_ITS2rcbc374	GAGTACAGTCTA	ACAGTCTA	FSW119
+FSW126	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	H4	kabir_ITS2rcbc375	CCTACATGAGAC	CATGAGAC	FSW126
+FSW134	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	H5	kabir_ITS2rcbc376	TCCGTGGTATAG	TGGTATAG	FSW134
+FSW142	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	H6	kabir_ITS2rcbc377	TCTACGGCACGT	CGGCACGT	FSW142
+FSW150	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	H7	kabir_ITS2rcbc378	ATGCTGCAACAC	TGCAACAC	FSW150
+FSW158	ABA-F2	host	Sao Luis do Paraitinga	Continuous	Run1	P4	H8	kabir_ITS2rcbc379	TTCTCATGGAGG	CATGGAGG	FSW158
+FSW165	ABA-F2	host	Bananal	Fragment	Run1	P4	H9	kabir_ITS2rcbc380	CATAGTGATTGG	GTGATTGG	FSW165
+EBB10	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	A1	kabir_ITS2rcbc384	GGAATTATCGGT	TTATCGGT	EBB10
+PDS280	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	A10	kabir_ITS2rcbc393	AAGACGTAGCGG	CGTAGCGG	PDS280
+PDS360	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	A11	kabir_ITS2rcbc394	TTACCTTACACC	CTTACACC	PDS360
+PDS440	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	A12	kabir_ITS2rcbc395	TGACTAATGGCC	TAATGGCC	PDS440
+EBB20	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	A2	kabir_ITS2rcbc385	CATCAAGCATAG	AAGCATAG	EBB20
+EBB280	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	A3	kabir_ITS2rcbc386	CATCGCGTTGAC	GCGTTGAC	EBB280
+EBB2a40	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	A4	kabir_ITS2rcbc387	GCACATAGTCGT	ATAGTCGT	EBB2a40
+EBB350	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	A5	kabir_ITS2rcbc388	GGCAAATACACT	AATACACT	EBB350
+EBB40	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	A6	kabir_ITS2rcbc389	GTCATGCTCCAG	TGCTCCAG	EBB40
+EBB4160	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	A7	kabir_ITS2rcbc390	CCTAGTAAGCTG	GTAAGCTG	EBB4160
+EBB5140	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	A8	kabir_ITS2rcbc391	TTACCGACGAGT	CGACGAGT	EBB5140
+PDS1100	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	A9	kabir_ITS2rcbc392	GCTTAGATGTAG	AGATGTAG	PDS1100
+EBB120	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	B1	kabir_ITS2rcbc396	CTCTCTCACTTG	CTCACTTG	EBB120
+PDS2100	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	B10	kabir_ITS2rcbc405	AACACTCGATCG	CTCGATCG	PDS2100
+PDS380	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	B11	kabir_ITS2rcbc406	TGACCGGCTGTT	CGGCTGTT	PDS380
+PDS460	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	B12	kabir_ITS2rcbc407	GGAGGAGCAATA	GAGCAATA	PDS460
+EBB210	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	B2	kabir_ITS2rcbc397	ATTGCAAGCAAC	CAAGCAAC	EBB210
+EBB290	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	B3	kabir_ITS2rcbc398	CACGTGACATGT	TGACATGT	EBB290
+EBB2a60	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	B4	kabir_ITS2rcbc399	CACAGTTGAAGT	GTTGAAGT	EBB2a60
+EBB360	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	B5	kabir_ITS2rcbc400	CTAGGATCACTG	GATCACTG	EBB360
+EBB420	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	B6	kabir_ITS2rcbc401	GATGACCCAAAT	ACCCAAAT	EBB420
+EBB50	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	B7	kabir_ITS2rcbc402	ACCGGAGTAGGA	GAGTAGGA	EBB50
+EBB5160	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	B8	kabir_ITS2rcbc403	TGAGGACTACCT	GACTACCT	EBB5160
+PDS1120	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	B9	kabir_ITS2rcbc404	CAATCGGCTTGC	CGGCTTGC	PDS1120
+EBB140	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	C1	kabir_ITS2rcbc408	AGCGACGAAGAC	ACGAAGAC	EBB140
+PDS2120	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	C10	kabir_ITS2rcbc417	CAAGCCCTAGTA	CCCTAGTA	PDS2120
+PDS3100	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	C11	kabir_ITS2rcbc418	TAGTGTCGGATC	GTCGGATC	PDS3100
+PDS480	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	C12	kabir_ITS2rcbc419	CTGAGCTCTGCA	GCTCTGCA	PDS480
+EBB220	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	C2	kabir_ITS2rcbc409	CTTCCCTAACTC	CCTAACTC	EBB220
+EBB2a100	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	C3	kabir_ITS2rcbc410	TGGAAGAACGGC	AGAACGGC	EBB2a100
+EBB2a80	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	C4	kabir_ITS2rcbc411	GCTAGACACTAC	GACACTAC	EBB2a80
+EBB370	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	C5	kabir_ITS2rcbc412	TTGGATTGAACG	ATTGAACG	EBB370
+EBB440	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	C6	kabir_ITS2rcbc413	GATATACCAGTG	TACCAGTG	EBB440
+EBB520	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	C7	kabir_ITS2rcbc414	AACAAACTGCCA	AACTGCCA	EBB520
+PDS10	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	C8	kabir_ITS2rcbc415	GTAGACATGTGT	ACATGTGT	PDS10
+PDS1140	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	C9	kabir_ITS2rcbc416	TACAGTTACGCG	GTTACGCG	PDS1140
+EBB160	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	D1	kabir_ITS2rcbc420	CTTCGACTTTCC	GACTTTCC	EBB160
+PDS2140	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	D10	kabir_ITS2rcbc429	AGCGCTCACATC	CTCACATC	PDS2140
+PDS3120	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	D11	kabir_ITS2rcbc430	TGGTTATGGCAC	TATGGCAC	PDS3120
+PDS4100	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	D12	kabir_ITS2rcbc431	CGAGGTTCTGAT	GTTCTGAT	PDS4100
+EBB230	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	D2	kabir_ITS2rcbc421	GTCATAAGAACC	TAAGAACC	EBB230
+EBB2a120	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	D3	kabir_ITS2rcbc422	GTCCGCAAGTTA	GCAAGTTA	EBB2a120
+EBB30	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	D4	kabir_ITS2rcbc423	CGTAGAGCTCTC	GAGCTCTC	EBB30
+EBB380	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	D5	kabir_ITS2rcbc424	CCTCTGAGAGCT	TGAGAGCT	EBB380
+EBB460	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	D6	kabir_ITS2rcbc425	CCTCGATGCAGT	GATGCAGT	EBB460
+EBB540	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	D7	kabir_ITS2rcbc426	GCGGACTATTCA	ACTATTCA	EBB540
+PDS120	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	D8	kabir_ITS2rcbc427	CGTGCACAATTG	CACAATTG	PDS120
+PDS1160	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	D9	kabir_ITS2rcbc428	CGGCCTAAGTTC	CTAAGTTC	PDS1160
+EBB180	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	E1	kabir_ITS2rcbc432	AACTCCTGTGGA	CCTGTGGA	EBB180
+PDS2160	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	E10	kabir_ITS2rcbc441	CATACACGCACC	CACGCACC	PDS2160
+PDS3140	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	E11	kabir_ITS2rcbc442	ACCTCAGTCAAG	CAGTCAAG	PDS3140
+PDS4120	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	E12	kabir_ITS2rcbc443	TCGACCAAACAC	CCAAACAC	PDS4120
+EBB240	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	E2	kabir_ITS2rcbc433	TAATGGTCGTAG	GGTCGTAG	EBB240
+EBB2a140	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	E3	kabir_ITS2rcbc434	TTGCACCGTCGA	ACCGTCGA	EBB2a140
+EBB310	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	E4	kabir_ITS2rcbc435	TGCTACAGACGT	ACAGACGT	EBB310
+EBB3120	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	E5	kabir_ITS2rcbc436	ATGGCCTGACTA	CCTGACTA	EBB3120
+EBB480	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	E6	kabir_ITS2rcbc437	ACGCACATACAA	ACATACAA	EBB480
+EBB560	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	E7	kabir_ITS2rcbc438	TGAGTGGTCTGT	TGGTCTGT	EBB560
+PDS140	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	E8	kabir_ITS2rcbc439	GATAGCACTCGT	GCACTCGT	PDS140
+PDS20	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	E9	kabir_ITS2rcbc440	TAGCGCGAACTT	GCGAACTT	PDS20
+EBB1120	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	F1	kabir_ITS2rcbc444	CCACCCAGTAAC	CCAGTAAC	EBB1120
+PDS30	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	F10	kabir_ITS2rcbc453	CTCATCATGTTC	TCATGTTC	PDS30
+PDS3160	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	F11	kabir_ITS2rcbc454	CCAGGGACTTCT	GGACTTCT	PDS3160
+PDS4140	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	F12	kabir_ITS2rcbc455	GCAATCCTTGCG	TCCTTGCG	PDS4140
+EBB250	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	F2	kabir_ITS2rcbc445	ATATCGCGATGA	CGCGATGA	EBB250
+EBB2a160	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	F3	kabir_ITS2rcbc446	CGCCGGTAATCT	GGTAATCT	EBB2a160
+EBB320	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	F4	kabir_ITS2rcbc447	CCGATGCCTTGA	TGCCTTGA	EBB320
+EBB3140	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	F5	kabir_ITS2rcbc448	AGCAGGCACGAA	GGCACGAA	EBB3140
+EBB4100	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	F6	kabir_ITS2rcbc449	TACGCAGCACTA	CAGCACTA	EBB4100
+EBB580	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	F7	kabir_ITS2rcbc450	CGCTTAGTGCTG	TAGTGCTG	EBB580
+EMPTY	EMPTY	EMPTY	EMPTY	Continuous	Run1	P5	F8	kabir_ITS2rcbc451	CAAAGTTTGCGA	GTTTGCGA	EMPTY
+PDS220	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	F9	kabir_ITS2rcbc452	TCGAGCCGATCT	GCCGATCT	PDS220
+EBB1140	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	G1	kabir_ITS2rcbc456	CCTGCTTCCTTC	CTTCCTTC	EBB1140
+PDS320	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	G10	kabir_ITS2rcbc465	CGAAGCATCTAC	GCATCTAC	PDS320
+PDS40	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	G11	kabir_ITS2rcbc466	GTTTGGCCACAC	GGCCACAC	PDS40
+PDS4160	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	G12	kabir_ITS2rcbc467	TCAGGTTGCCCA	GTTGCCCA	PDS4160
+EBB260	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	G2	kabir_ITS2rcbc457	CAAGGCACAAGG	GCACAAGG	EBB260
+EBB2a0	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	G3	kabir_ITS2rcbc458	GGCCTATAAGTC	TATAAGTC	EBB2a0
+EBB330	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	G4	kabir_ITS2rcbc459	TCCATTTCATGC	TTTCATGC	EBB330
+EBB3160	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	G5	kabir_ITS2rcbc460	TCGGCGATCATC	CGATCATC	EBB3160
+EBB4120	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	G6	kabir_ITS2rcbc461	GTTTCACGCGAA	CACGCGAA	EBB4120
+EBB5100	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	G7	kabir_ITS2rcbc462	ACAAGAACCTTG	GAACCTTG	EBB5100
+PDS160	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	G8	kabir_ITS2rcbc463	TACTCTCTTAGC	CTCTTAGC	PDS160
+PDS240	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	G9	kabir_ITS2rcbc464	AACTGTTCGCGC	GTTCGCGC	PDS240
+EBB1160	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	H1	kabir_ITS2rcbc468	TCATTCCACTCA	TCCACTCA	EBB1160
+PDS340	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	H10	kabir_ITS2rcbc477	CCAATCGTGCAA	TCGTGCAA	PDS340
+PDS420	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	H11	kabir_ITS2rcbc478	AGGCTAGCAGAG	TAGCAGAG	PDS420
+PDS50	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	H12	kabir_ITS2rcbc479	GTCACTCCGAAC	CTCCGAAC	PDS50
+EBB270	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	H2	kabir_ITS2rcbc469	GTCACATCACGA	CATCACGA	EBB270
+EBB2a20	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	H3	kabir_ITS2rcbc470	CGACATTTCTCT	ATTTCTCT	EBB2a20
+EBB340	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	H4	kabir_ITS2rcbc471	GGACGTTAACTA	GTTAACTA	EBB340
+C1EXTP1	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	H5	kabir_ITS2rcbc472	TAGCAGTTGCGT	AGTTGCGT	C1EXTP1
+EBB4140	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	H6	kabir_ITS2rcbc473	CACGCTATTGGA	CTATTGGA	EBB4140
+EBB5120	ABA-S1	soil	Estacao Biologica de Boraceia	Continuous	Run1	P5	H7	kabir_ITS2rcbc474	AACTTCACTTCC	TCACTTCC	EBB5120
+PDS180	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	H8	kabir_ITS2rcbc475	CCAGTGGATATA	TGGATATA	PDS180
+PDS260	ABA-S1	soil	Pilar do Sul	Continuous	Run1	P5	H9	kabir_ITS2rcbc476	TGTGTGTAACGC	TGTAACGC	PDS260
+BAN1A	ABA-W1	water	Bananal	Fragment	Run2	P2	A1	kabir_ITS2rcbc96	TACCGCTTCTTC	GCTTCTTC	BAN1A
+SLP4C	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	A10	kabir_ITS2rcbc105	ACTTGGTGTAAG	GGTGTAAG	SLP4C
+PDS1C	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	A11	kabir_ITS2rcbc106	TCTTGGAGGTCA	GGAGGTCA	PDS1C
+PDS4B	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	A12	kabir_ITS2rcbc107	TCACCTCCTTGT	CTCCTTGT	PDS4B
+BAN3C	ABA-W1	water	Bananal	Fragment	Run2	P2	A2	kabir_ITS2rcbc97	TGTGCGATAACA	CGATAACA	BAN3C
+EBB1B	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	A3	kabir_ITS2rcbc98	GATTATCGACGA	ATCGACGA	EBB1B
+EBB4A	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	A4	kabir_ITS2rcbc99	GCCTAGCCCAAT	AGCCCAAT	EBB4A
+NSV1C	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	A5	kabir_ITS2rcbc100	GATGTATGTGGT	TATGTGGT	NSV1C
+NSV4B	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	A6	kabir_ITS2rcbc101	ACTCCTTGTGTT	CTTGTGTT	NSV4B
+VGP2A	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	A7	kabir_ITS2rcbc102	GTCACGGACATT	CGGACATT	VGP2A
+VGP4C	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	A8	kabir_ITS2rcbc103	GCGAGCGAAGTA	GCGAAGTA	VGP4C
+SLP2A	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	A9	kabir_ITS2rcbc104	ATCTACCGAAGC	ACCGAAGC	SLP2A
+BAN1B	ABA-W1	water	Bananal	Fragment	Run2	P2	B1	kabir_ITS2rcbc108	GCACACCTGATA	ACCTGATA	BAN1B
+SLP5A	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	B10	kabir_ITS2rcbc117	GTATTTCGGACG	TTCGGACG	SLP5A
+PDS2A	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	B11	kabir_ITS2rcbc118	TATCTATCCTGC	TATCCTGC	PDS2A
+PDS4C	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	B12	kabir_ITS2rcbc119	TTGCCAAGAGTC	CAAGAGTC	PDS4C
+BAN4A	ABA-W1	water	Bananal	Fragment	Run2	P2	B2	kabir_ITS2rcbc109	GCGACAATTACA	CAATTACA	BAN4A
+EBB1C	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	B3	kabir_ITS2rcbc110	TCATGCTCCATT	GCTCCATT	EBB1C
+EBB4B	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	B4	kabir_ITS2rcbc111	AGCTGTCAAGCT	GTCAAGCT	EBB4B
+NSV2A	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	B5	kabir_ITS2rcbc112	GAGAGCAACAGA	GCAACAGA	NSV2A
+NSV4C	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	B6	kabir_ITS2rcbc113	TACTCGGGAACT	CGGGAACT	NSV4C
+VGP2B	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	B7	kabir_ITS2rcbc114	CGTGCTTAGGCT	CTTAGGCT	VGP2B
+VGP5A	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	B8	kabir_ITS2rcbc115	TACCGAAGGTAT	GAAGGTAT	VGP5A
+SLP2B	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	B9	kabir_ITS2rcbc116	CACTCATCATTC	CATCATTC	SLP2B
+BAN1C	ABA-W1	water	Bananal	Fragment	Run2	P2	C1	kabir_ITS2rcbc120	AGTAGCGGAAGA	GCGGAAGA	BAN1C
+SLP5B	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	C10	kabir_ITS2rcbc129	GACATTGTCACG	TTGTCACG	SLP5B
+PDS2B	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	C11	kabir_ITS2rcbc130	GCCAACAACCAT	ACAACCAT	PDS2B
+PDS5A	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	C12	kabir_ITS2rcbc131	ATCAGTACTAGG	GTACTAGG	PDS5A
+BAN4B	ABA-W1	water	Bananal	Fragment	Run2	P2	C2	kabir_ITS2rcbc121	GCAATTAGGTAC	TTAGGTAC	BAN4B
+EBB2A	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	C3	kabir_ITS2rcbc122	CATACCGTGAGT	CCGTGAGT	EBB2A
+EBB4C	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	C4	kabir_ITS2rcbc123	ATGTGTGTAGAC	GTGTAGAC	EBB4C
+NSV2B	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	C5	kabir_ITS2rcbc124	CCTGCGAAGTAT	CGAAGTAT	NSV2B
+NSV5A	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	C6	kabir_ITS2rcbc125	TTCTCTCGACAT	CTCGACAT	NSV5A
+VGP2C	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	C7	kabir_ITS2rcbc126	GCTCTCCGTAGA	TCCGTAGA	VGP2C
+VGP5B	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	C8	kabir_ITS2rcbc127	GTTAAGCTGACC	AGCTGACC	VGP5B
+SLP2C	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	C9	kabir_ITS2rcbc128	ATGCCATGCCGT	CATGCCGT	SLP2C
+BAN2A	ABA-W1	water	Bananal	Fragment	Run2	P2	D1	kabir_ITS2rcbc132	TCCTCGAGCGAT	CGAGCGAT	BAN2A
+SLP5C	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	D10	kabir_ITS2rcbc141	GGATCGTAATAC	CGTAATAC	SLP5C
+PDS2C	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	D11	kabir_ITS2rcbc142	GCATAGCATCAA	AGCATCAA	PDS2C
+PDS5B	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	D12	kabir_ITS2rcbc143	GTGTTAGATGTG	TAGATGTG	PDS5B
+BAN4C	ABA-W1	water	Bananal	Fragment	Run2	P2	D2	kabir_ITS2rcbc133	ACCCAAGCGTTA	AAGCGTTA	BAN4C
+EBB2B	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	D3	kabir_ITS2rcbc134	TGCAGCAAGATT	GCAAGATT	EBB2B
+EBB5A	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	D4	kabir_ITS2rcbc135	AGCAACATTGCA	ACATTGCA	EBB5A
+NSV2C	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	D5	kabir_ITS2rcbc136	GATGTGGTGTTA	TGGTGTTA	NSV2C
+NSV5B	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	D6	kabir_ITS2rcbc137	CAGAAATGTGTC	AATGTGTC	NSV5B
+VGP3A	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	D7	kabir_ITS2rcbc138	GTAGAGGTAGAG	AGGTAGAG	VGP3A
+VGP5C	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	D8	kabir_ITS2rcbc139	CGTGATCCGCTA	ATCCGCTA	VGP5C
+SLP3A	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	D9	kabir_ITS2rcbc140	GGTTATTTGGCG	ATTTGGCG	SLP3A
+BAN2B	ABA-W1	water	Bananal	Fragment	Run2	P2	E1	kabir_ITS2rcbc144	TTAGAGCCATGC	AGCCATGC	BAN2B
+CFIELDP5	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	E10	kabir_ITS2rcbc153	GAAACATCCCAC	CATCCCAC	CFIELDP5
+PDS3A	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	E11	kabir_ITS2rcbc154	CGTACTCTCGAG	CTCTCGAG	PDS3A
+PDS5C	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	E12	kabir_ITS2rcbc155	TCAGTTCTCGTT	TTCTCGTT	PDS5C
+BAN5A	ABA-W1	water	Bananal	Fragment	Run2	P2	E2	kabir_ITS2rcbc145	TGAACCCTATGG	CCCTATGG	BAN5A
+EBB2C	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	E3	kabir_ITS2rcbc146	AGAGTCTTGCCA	TCTTGCCA	EBB2C
+EBB5B	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	E4	kabir_ITS2rcbc147	ACAACACTCCGA	CACTCCGA	EBB5B
+NSV3A	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	E5	kabir_ITS2rcbc148	CGATGCTGTTGA	GCTGTTGA	NSV3A
+NSV5C	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	E6	kabir_ITS2rcbc149	ACGACTGCATAA	CTGCATAA	NSV5C
+VGP3B	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	E7	kabir_ITS2rcbc150	ACGCGAACTAAT	GAACTAAT	VGP3B
+CEXT1P5	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	E8	kabir_ITS2rcbc151	AGCTATGTATGG	ATGTATGG	CEXT1P5
+SLP3B	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	E9	kabir_ITS2rcbc152	ACGGGTCATCAT	GTCATCAT	SLP3B
+BAN2C	ABA-W1	water	Bananal	Fragment	Run2	P2	F1	kabir_ITS2rcbc156	TCGTGCGTGTTG	GCGTGTTG	BAN2C
+CEXT3P5	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	F10	kabir_ITS2rcbc165	TGCCGTATGCCA	GTATGCCA	CEXT3P5
+PDS3B	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	F11	kabir_ITS2rcbc166	CGTGACAATAGT	ACAATAGT	PDS3B
+RBSJ1A	ABA-W1	water	Reserva Biologica Serra do Japi	Continuous	Run2	P2	F12	kabir_ITS2rcbc167	CGCTACAACTCG	ACAACTCG	RBSJ1A
+BAN5B	ABA-W1	water	Bananal	Fragment	Run2	P2	F2	kabir_ITS2rcbc157	GTTATCGCATGG	TCGCATGG	BAN5B
+EBB3A	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	F3	kabir_ITS2rcbc158	GATCACGAGAGG	ACGAGAGG	EBB3A
+EBB5C	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	F4	kabir_ITS2rcbc159	GTAAATTCAGGC	ATTCAGGC	EBB5C
+NSV3B	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	F5	kabir_ITS2rcbc160	AGTGTTTCGGAC	TTTCGGAC	NSV3B
+VGP1A	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	F6	kabir_ITS2rcbc161	ACACGCGGTTTA	GCGGTTTA	VGP1A
+VGP3C	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	F7	kabir_ITS2rcbc162	TGGCAAATCTAG	AAATCTAG	VGP3C
+SLP1A	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	F8	kabir_ITS2rcbc163	CACCTTACCTTA	TTACCTTA	SLP1A
+SLP3C	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	F9	kabir_ITS2rcbc164	TTAACCTTCCTG	CCTTCCTG	SLP3C
+BAN3A	ABA-W1	water	Bananal	Fragment	Run2	P2	G1	kabir_ITS2rcbc168	TTAAGACAGTCG	GACAGTCG	BAN3A
+PDS1A	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	G10	kabir_ITS2rcbc177	TTGATCCGGTAG	TCCGGTAG	PDS1A
+PDS3C	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	G11	kabir_ITS2rcbc178	CGGGTGTTTGCT	TGTTTGCT	PDS3C
+RBSJ1B	ABA-W1	water	Reserva Biologica Serra do Japi	Continuous	Run2	P2	G12	kabir_ITS2rcbc179	TTGACCGCGGTT	CCGCGGTT	RBSJ1B
+BAN5C	ABA-W1	water	Bananal	Fragment	Run2	P2	G2	kabir_ITS2rcbc169	TCTGCACTGAGC	CACTGAGC	BAN5C
+EBB3B	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	G3	kabir_ITS2rcbc170	CGCAGATTAGTA	GATTAGTA	EBB3B
+NSV1A	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	G4	kabir_ITS2rcbc171	TGGGTCCCACAT	TCCCACAT	NSV1A
+NSV3C	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	G5	kabir_ITS2rcbc172	CACTGGTGCATA	GGTGCATA	NSV3C
+VGP1B	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	G6	kabir_ITS2rcbc173	AACGTAGGCTCT	TAGGCTCT	VGP1B
+VGP4A	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	G7	kabir_ITS2rcbc174	AGTTGTAGTCCG	GTAGTCCG	VGP4A
+SLP1B	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	G8	kabir_ITS2rcbc175	TCGTCAAACCCG	CAAACCCG	SLP1B
+SLP4A	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	G9	kabir_ITS2rcbc176	TAATCGGTGCCA	CGGTGCCA	SLP4A
+BAN3B	ABA-W1	water	Bananal	Fragment	Run2	P2	H1	kabir_ITS2rcbc180	GTGCAACCAATC	AACCAATC	BAN3B
+PDS1B	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	H10	kabir_ITS2rcbc189	TGTAAGACTTGG	AGACTTGG	PDS1B
+PDS4A	ABA-W1	water	Pilar do Sul	Continuous	Run2	P2	H11	kabir_ITS2rcbc190	CGGATCTAGTGT	TCTAGTGT	PDS4A
+RBSJ1C	ABA-W1	water	Reserva Biologica Serra do Japi	Continuous	Run2	P2	H12	kabir_ITS2rcbc191	CGATCTTCGAGC	CTTCGAGC	RBSJ1C
+EBB1A	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	H2	kabir_ITS2rcbc181	GCTTGAGCTTGA	GAGCTTGA	EBB1A
+EBB3C	ABA-W1	water	Estacao Biologica de Boraceia	Continuous	Run2	P2	H3	kabir_ITS2rcbc182	CGCTGTGGATTA	GTGGATTA	EBB3C
+NSV1B	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	H4	kabir_ITS2rcbc183	CTGTCAGTGACC	CAGTGACC	NSV1B
+NSV4A	ABA-W1	water	Nucleo de Santa Virginia	Continuous	Run2	P2	H5	kabir_ITS2rcbc184	ACGATTCGAGTC	TTCGAGTC	NSV4A
+VGP1C	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	H6	kabir_ITS2rcbc185	GGTTCGGTCCAT	CGGTCCAT	VGP1C
+VGP4B	ABA-W1	water	Vargem Grande Paulista	Continuous	Run2	P2	H7	kabir_ITS2rcbc186	CTGATCCATCTT	TCCATCTT	VGP4B
+SLP1C	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	H8	kabir_ITS2rcbc187	TATGTGCCGGCT	TGCCGGCT	SLP1C
+SLP4B	ABA-W1	water	Sao Luis do Paraitinga	Fragment	Run2	P2	H9	kabir_ITS2rcbc188	TGGTCGCATCGT	CGCATCGT	SLP4B
+PDS520	ABA-S2	soil	Pilar do Sul	Continuous	Run2	P3	A1	kabir_ITS2rcbc192	GTCGAATTTGCG	AATTTGCG	PDS520
+NSV320	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	A10	kabir_ITS2rcbc201	CGACTCTAAACG	TCTAAACG	NSV320
+NSV40	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	A11	kabir_ITS2rcbc202	GTCTTCAGCAAG	TCAGCAAG	NSV40
+NSV4160	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	A12	kabir_ITS2rcbc203	CGGATAACCTCC	TAACCTCC	NSV4160
+VGP10	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	A2	kabir_ITS2rcbc193	GCATCAGAGTTA	CAGAGTTA	VGP10
+VGP1160	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	A3	kabir_ITS2rcbc194	GTGGTCATCGTA	TCATCGTA	VGP1160
+VGP2140	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	A4	kabir_ITS2rcbc195	CTGAAGGGCGAA	AGGGCGAA	VGP2140
+VGP3120	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	A5	kabir_ITS2rcbc196	CGCTCACAGAAT	CACAGAAT	VGP3120
+VGP4100	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	A6	kabir_ITS2rcbc197	ATTCGGTAGTGC	GGTAGTGC	VGP4100
+VGP580	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	A7	kabir_ITS2rcbc198	CGAGCTGTTACC	CTGTTACC	VGP580
+NSV160	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	A8	kabir_ITS2rcbc199	CAACACATGCTG	ACATGCTG	NSV160
+NSV240	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	A9	kabir_ITS2rcbc200	ATTCTCTCACGT	TCTCACGT	NSV240
+PDS540	ABA-S2	soil	Pilar do Sul	Continuous	Run2	P3	B1	kabir_ITS2rcbc204	AGGGTGACTTTA	TGACTTTA	PDS540
+NSV340	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	B10	kabir_ITS2rcbc213	AAGACAGCTATC	CAGCTATC	NSV340
+NSV420	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	B11	kabir_ITS2rcbc214	ATTGACCGGTCA	ACCGGTCA	NSV420
+NSV50	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	B12	kabir_ITS2rcbc215	TTCTCCATCACA	CCATCACA	NSV50
+VGP120	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	B2	kabir_ITS2rcbc205	GACTTCATGCGA	TCATGCGA	VGP120
+VGP20	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	B3	kabir_ITS2rcbc206	GCCTGTCTGCAA	GTCTGCAA	VGP20
+VGP2160	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	B4	kabir_ITS2rcbc207	ACTGATGGCCTC	ATGGCCTC	VGP2160
+VGP3140	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	B5	kabir_ITS2rcbc208	TTCGATGCCGCA	ATGCCGCA	VGP3140
+VGP4120	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	B6	kabir_ITS2rcbc209	TGTGGCTCGTGT	GCTCGTGT	VGP4120
+VGP5100	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	B7	kabir_ITS2rcbc210	AACTTTCAGGAG	TTCAGGAG	VGP5100
+NSV180	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	B8	kabir_ITS2rcbc211	TGCACGTGATAA	CGTGATAA	NSV180
+NSV260	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	B9	kabir_ITS2rcbc212	GTTCGGTGTCCA	GGTGTCCA	NSV260
+PDS560	ABA-S2	soil	Pilar do Sul	Continuous	Run2	P3	C1	kabir_ITS2rcbc216	CGTAGGTAGAGG	GGTAGAGG	PDS560
+NSV360	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	C10	kabir_ITS2rcbc225	GTCGCCGTACAT	CCGTACAT	NSV360
+NSV440	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	C11	kabir_ITS2rcbc226	GGAATCCGATTA	TCCGATTA	NSV440
+NSV520	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	C12	kabir_ITS2rcbc227	CACCCGATGGTT	CGATGGTT	NSV520
+VGP140	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	C2	kabir_ITS2rcbc217	ATTTAGGACGAC	AGGACGAC	VGP140
+VGP220	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	C3	kabir_ITS2rcbc218	GGATAGCCAAGG	AGCCAAGG	VGP220
+VGP30	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	C4	kabir_ITS2rcbc219	TGGTTGGTTACG	TGGTTACG	VGP30
+VGP3160	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	C5	kabir_ITS2rcbc220	GTCGTCCAAATG	TCCAAATG	VGP3160
+VGP4140	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	C6	kabir_ITS2rcbc221	CAACGTGCTCCA	GTGCTCCA	VGP4140
+VGP5120	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	C7	kabir_ITS2rcbc222	TACACAAGTCGC	CAAGTCGC	VGP5120
+NSV1100	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	C8	kabir_ITS2rcbc223	GCGTCCATGAAT	CCATGAAT	NSV1100
+NSV280	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	C9	kabir_ITS2rcbc224	GTAATGCGTAAC	TGCGTAAC	NSV280
+PDS580	ABA-S2	soil	Pilar do Sul	Continuous	Run2	P3	D1	kabir_ITS2rcbc228	TTCTGAGAGGTA	GAGAGGTA	PDS580
+NSV380	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	D10	kabir_ITS2rcbc237	GGTTTAACACGC	TAACACGC	NSV380
+NSV460	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	D11	kabir_ITS2rcbc238	AGACAGTAGGAG	AGTAGGAG	NSV460
+NSV540	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	D12	kabir_ITS2rcbc239	GCCACGACTTAC	CGACTTAC	NSV540
+VGP160	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	D2	kabir_ITS2rcbc229	ATCCCTACGGAA	CTACGGAA	VGP160
+VGP240	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	D3	kabir_ITS2rcbc230	GGTTCCATTAGG	CCATTAGG	VGP240
+VGP320	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	D4	kabir_ITS2rcbc231	GTGTTCCCAGAA	TCCCAGAA	VGP320
+VGP40	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	D5	kabir_ITS2rcbc232	CCGAGGTATAAT	GGTATAAT	VGP40
+VGP4160	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	D6	kabir_ITS2rcbc233	AGCGTAATTAGC	TAATTAGC	VGP4160
+VGP5140	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	D7	kabir_ITS2rcbc234	CTCGTGAATGAC	TGAATGAC	VGP5140
+NSV1120	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	D8	kabir_ITS2rcbc235	AGGTGAGTTCTA	GAGTTCTA	NSV1120
+NSV2100	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	D9	kabir_ITS2rcbc236	CCTGTCCTATCT	TCCTATCT	NSV2100
+PDS5100	ABA-S2	soil	Pilar do Sul	Continuous	Run2	P3	E1	kabir_ITS2rcbc240	ATTGTTCCTACC	TTCCTACC	PDS5100
+NSV3100	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	E10	kabir_ITS2rcbc249	CTCCCTTTGTGT	CTTTGTGT	NSV3100
+NSV480	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	E11	kabir_ITS2rcbc250	AGCTGCACCTAA	GCACCTAA	NSV480
+NSV560	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	E12	kabir_ITS2rcbc251	CCTTGACCGATG	GACCGATG	NSV560
+VGP180	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	E2	kabir_ITS2rcbc241	GCCGTAAACTTG	TAAACTTG	VGP180
+VGP260	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	E3	kabir_ITS2rcbc242	GCAGATTTCCAG	ATTTCCAG	VGP260
+VGP340	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	E4	kabir_ITS2rcbc243	AGATGATCAGTC	GATCAGTC	VGP340
+VGP420	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	E5	kabir_ITS2rcbc244	GAGACGTGTTCT	CGTGTTCT	VGP420
+VGP50	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	E6	kabir_ITS2rcbc245	TATCACCGGCAC	ACCGGCAC	VGP50
+VGP5160	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	E7	kabir_ITS2rcbc246	TATGCCAGAGAT	CCAGAGAT	VGP5160
+NSV1140	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	E8	kabir_ITS2rcbc247	AGGTCCAAATCA	CCAAATCA	NSV1140
+NSV2120	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	E9	kabir_ITS2rcbc248	ACCGTGCTCACA	TGCTCACA	NSV2120
+PDS5120	ABA-S2	soil	Pilar do Sul	Continuous	Run2	P3	F1	kabir_ITS2rcbc252	CTATCATCCTCA	CATCCTCA	PDS5120
+NSV3120	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	F10	kabir_ITS2rcbc261	GGTCTCCTACAG	TCCTACAG	NSV3120
+NSV4100	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	F11	kabir_ITS2rcbc262	ACTGACTTAAGG	ACTTAAGG	NSV4100
+NSV580	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	F12	kabir_ITS2rcbc263	GATGCTGCCGTT	CTGCCGTT	NSV580
+VGP1100	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	F2	kabir_ITS2rcbc253	ACTCTAGCCGGT	TAGCCGGT	VGP1100
+VGP280	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	F3	kabir_ITS2rcbc254	CGATAGGCCTTA	AGGCCTTA	VGP280
+VGP360	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	F4	kabir_ITS2rcbc255	AATGACCTCGTG	ACCTCGTG	VGP360
+VGP440	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	F5	kabir_ITS2rcbc256	CTTAGGCATGTG	GGCATGTG	VGP440
+VGP520	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	F6	kabir_ITS2rcbc257	CCAGATATAGCA	ATATAGCA	VGP520
+NSV10	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	F7	kabir_ITS2rcbc258	GAGAGTCCACTT	GTCCACTT	NSV10
+NSV1160	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	F8	kabir_ITS2rcbc259	GAACGGGACGTA	GGGACGTA	NSV1160
+NSV2140	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	F9	kabir_ITS2rcbc260	ACGTGTAGGCTT	GTAGGCTT	NSV2140
+PDS5140	ABA-S2	soil	Pilar do Sul	Continuous	Run2	P3	G1	kabir_ITS2rcbc264	TTCCTAGGCCAG	TAGGCCAG	PDS5140
+NSV3140	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	G10	kabir_ITS2rcbc273	ATAGCGAACTCA	CGAACTCA	NSV3140
+NSV4120	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	G11	kabir_ITS2rcbc274	TAACGCTGTGTG	GCTGTGTG	NSV4120
+NSV5100	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	G12	kabir_ITS2rcbc275	AACCAAACTCGA	AAACTCGA	NSV5100
+VGP1120	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	G2	kabir_ITS2rcbc265	ATTAAGCCTGGA	AGCCTGGA	VGP1120
+VGP2100	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	G3	kabir_ITS2rcbc266	TGGCTTTCTATC	TTTCTATC	VGP2100
+VGP380	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	G4	kabir_ITS2rcbc267	ACAGCTCAAACA	CTCAAACA	VGP380
+VGP460	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	G5	kabir_ITS2rcbc268	GAGCGTATCCAT	GTATCCAT	VGP460
+VGP540	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	G6	kabir_ITS2rcbc269	ATGGGCGAATGG	GCGAATGG	VGP540
+NSV120	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	G7	kabir_ITS2rcbc270	GATCTCTGGGTA	TCTGGGTA	NSV120
+NSV20	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	G8	kabir_ITS2rcbc271	CATCATACGGGT	ATACGGGT	NSV20
+NSV2160	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	G9	kabir_ITS2rcbc272	TACGGATTATGG	GATTATGG	NSV2160
+PDS5160	ABA-S2	soil	Pilar do Sul	Continuous	Run2	P3	H1	kabir_ITS2rcbc276	GCCGTCTCGTAA	TCTCGTAA	PDS5160
+NSV3160	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	H10	kabir_ITS2rcbc285	CTTGAGAAATCG	AGAAATCG	NSV3160
+NSV4140	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	H11	kabir_ITS2rcbc286	CTACACAGCACA	ACAGCACA	NSV4140
+NSV5120	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	H12	kabir_ITS2rcbc287	GAAATGCTACGT	TGCTACGT	NSV5120
+VGP1140	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	H2	kabir_ITS2rcbc277	CTGGGTATCTCG	GTATCTCG	VGP1140
+VGP2120	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	H3	kabir_ITS2rcbc278	GACTACCCGTTG	ACCCGTTG	VGP2120
+VGP3100	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	H4	kabir_ITS2rcbc279	GCGTTGCAAACT	TGCAAACT	VGP3100
+VGP480	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	H5	kabir_ITS2rcbc280	AACCGCATAAGT	GCATAAGT	VGP480
+VGP560	ABA-S2	soil	Vargem Grande Paulista	Fragment	Run2	P3	H6	kabir_ITS2rcbc281	ACCTTACACCTT	TACACCTT	VGP560
+NSV140	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	H7	kabir_ITS2rcbc282	GTAGGTGCTTAC	GTGCTTAC	NSV140
+NSV220	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	H8	kabir_ITS2rcbc283	CGCATTTGGATG	TTTGGATG	NSV220
+NSV30	ABA-S2	soil	Nucleo de Santa Virginia	Continuous	Run2	P3	H9	kabir_ITS2rcbc284	ATAACATGTGCG	CATGTGCG	NSV30
+BAN160	ABA-S4	soil	Bananal	Fragment	Run2	P4	A1	kabir_ITS2rcbc288	TCTGAGGTTGCC	AGGTTGCC	BAN160
+SJC440	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	A10	kabir_ITS2rcbc297	GCGAAGTTGGGA	AGTTGGGA	SJC440
+SJC520	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	A11	kabir_ITS2rcbc298	GCATTCGGCGTT	TCGGCGTT	SJC520
+CEXT2P4	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	A12	kabir_ITS2rcbc299	CGCCATTGTGCA	ATTGTGCA	CEXT2P4
+BAN240	ABA-S4	soil	Bananal	Fragment	Run2	P4	A2	kabir_ITS2rcbc289	GATCATTCTCTC	ATTCTCTC	BAN240
+BAN30	ABA-S4	soil	Bananal	Fragment	Run2	P4	A3	kabir_ITS2rcbc290	AGACATACCGTA	ATACCGTA	BAN30
+BAN3160	ABA-S4	soil	Bananal	Fragment	Run2	P4	A4	kabir_ITS2rcbc291	GATCCTCATGCG	CTCATGCG	BAN3160
+BAN4140	ABA-S4	soil	Bananal	Fragment	Run2	P4	A5	kabir_ITS2rcbc292	ATTATCGTCCCT	TCGTCCCT	BAN4140
+BAN5120	ABA-S4	soil	Bananal	Fragment	Run2	P4	A6	kabir_ITS2rcbc293	CCAGACCGCTAT	ACCGCTAT	BAN5120
+SJC1100	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	A7	kabir_ITS2rcbc294	AGCTCTAGAAAC	CTAGAAAC	SJC1100
+SJC280	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	A8	kabir_ITS2rcbc295	TCCATCGACGTG	TCGACGTG	SJC280
+SJC360	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	A9	kabir_ITS2rcbc296	CGATGTGTGGTT	GTGTGGTT	SJC360
+BAN180	ABA-S4	soil	Bananal	Fragment	Run2	P4	B1	kabir_ITS2rcbc300	TCCAACTGCAGA	ACTGCAGA	BAN180
+SJC460	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	B10	kabir_ITS2rcbc309	CGCACTACGCAT	CTACGCAT	SJC460
+SJC540	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	B11	kabir_ITS2rcbc310	CAGTCGTTAAGA	CGTTAAGA	SJC540
+BAN260	ABA-S4	soil	Bananal	Fragment	Run2	P4	B2	kabir_ITS2rcbc301	TAAAGACCCGTA	GACCCGTA	BAN260
+BAN320	ABA-S4	soil	Bananal	Fragment	Run2	P4	B3	kabir_ITS2rcbc302	TGTATCTTCACC	TCTTCACC	BAN320
+BAN40	ABA-S4	soil	Bananal	Fragment	Run2	P4	B4	kabir_ITS2rcbc303	GACTGACTCGTC	GACTCGTC	BAN40
+BAN4160	ABA-S4	soil	Bananal	Fragment	Run2	P4	B5	kabir_ITS2rcbc304	TCGTGGATAGCT	GGATAGCT	BAN4160
+BAN5140	ABA-S4	soil	Bananal	Fragment	Run2	P4	B6	kabir_ITS2rcbc305	GACGCACTAACT	CACTAACT	BAN5140
+SJC1120	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	B7	kabir_ITS2rcbc306	GGCGATTTACGT	ATTTACGT	SJC1120
+SJC2100	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	B8	kabir_ITS2rcbc307	TAAGGCATCGCT	GCATCGCT	SJC2100
+SJC380	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	B9	kabir_ITS2rcbc308	ACCCATACAGCC	ATACAGCC	SJC380
+BAN1100	ABA-S4	soil	Bananal	Fragment	Run2	P4	C1	kabir_ITS2rcbc312	ATAATTGCCGAG	TTGCCGAG	BAN1100
+SJC480	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	C10	kabir_ITS2rcbc321	TCGCCGTGTACA	CGTGTACA	SJC480
+SJC560	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	C11	kabir_ITS2rcbc322	AACTGCGATATG	GCGATATG	SJC560
+BAN280	ABA-S4	soil	Bananal	Fragment	Run2	P4	C2	kabir_ITS2rcbc313	GGCATGTTATCG	TGTTATCG	BAN280
+BAN340	ABA-S4	soil	Bananal	Fragment	Run2	P4	C3	kabir_ITS2rcbc314	AGGCACAGTAGG	ACAGTAGG	BAN340
+BAN420	ABA-S4	soil	Bananal	Fragment	Run2	P4	C4	kabir_ITS2rcbc315	CTACTTACATCC	TTACATCC	BAN420
+BAN50	ABA-S4	soil	Bananal	Fragment	Run2	P4	C5	kabir_ITS2rcbc316	CTCTTCTGATCA	TCTGATCA	BAN50
+BAN5160	ABA-S4	soil	Bananal	Fragment	Run2	P4	C6	kabir_ITS2rcbc317	ATGCTAACCACG	TAACCACG	BAN5160
+SJC1140	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	C7	kabir_ITS2rcbc318	ACCAATCTCGGC	ATCTCGGC	SJC1140
+SJC2120	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	C8	kabir_ITS2rcbc319	TATCCAAGCGCA	CAAGCGCA	SJC2120
+SJC3100	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	C9	kabir_ITS2rcbc320	GTACTGAAGATC	TGAAGATC	SJC3100
+BAN1120	ABA-S4	soil	Bananal	Fragment	Run2	P4	D1	kabir_ITS2rcbc324	GAGATCGCCTAT	TCGCCTAT	BAN1120
+SJC4100	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	D10	kabir_ITS2rcbc333	CGGAGTAATCCT	GTAATCCT	SJC4100
+SJC580	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	D11	kabir_ITS2rcbc334	CTGTGTCCATGG	GTCCATGG	SJC580
+BAN2100	ABA-S4	soil	Bananal	Fragment	Run2	P4	D2	kabir_ITS2rcbc325	TGTACATCGCCG	CATCGCCG	BAN2100
+BAN360	ABA-S4	soil	Bananal	Fragment	Run2	P4	D3	kabir_ITS2rcbc326	TGTTAAGCAGCA	AAGCAGCA	BAN360
+BAN440	ABA-S4	soil	Bananal	Fragment	Run2	P4	D4	kabir_ITS2rcbc327	ACGGCGTTATGT	CGTTATGT	BAN440
+BAN520	ABA-S4	soil	Bananal	Fragment	Run2	P4	D5	kabir_ITS2rcbc328	ACTTTGCTTTGC	TGCTTTGC	BAN520
+SJC10	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	D6	kabir_ITS2rcbc329	CAAAGCGGTATT	GCGGTATT	SJC10
+SJC1160	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	D7	kabir_ITS2rcbc330	CGAAACTACGTA	ACTACGTA	SJC1160
+SJC2140	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	D8	kabir_ITS2rcbc331	GAGGACCAGCAA	ACCAGCAA	SJC2140
+SJC3120	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	D9	kabir_ITS2rcbc332	AATAGCATGTCG	GCATGTCG	SJC3120
+BAN1140	ABA-S4	soil	Bananal	Fragment	Run2	P4	E1	kabir_ITS2rcbc336	ATAGGCTGTAGT	GCTGTAGT	BAN1140
+SJC4120	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	E10	kabir_ITS2rcbc345	AAGTCACACACA	CACACACA	SJC4120
+SJC5100	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	E11	kabir_ITS2rcbc346	GCTGTGATTCGA	TGATTCGA	SJC5100
+BAN2120	ABA-S4	soil	Bananal	Fragment	Run2	P4	E2	kabir_ITS2rcbc337	TGTGTAGCCATG	TAGCCATG	BAN2120
+BAN380	ABA-S4	soil	Bananal	Fragment	Run2	P4	E3	kabir_ITS2rcbc338	AAGGGCGCTGAA	GCGCTGAA	BAN380
+BAN460	ABA-S4	soil	Bananal	Fragment	Run2	P4	E4	kabir_ITS2rcbc339	GTTTCCGTGGTG	CCGTGGTG	BAN460
+BAN540	ABA-S4	soil	Bananal	Fragment	Run2	P4	E5	kabir_ITS2rcbc340	AGGAACCAGACG	ACCAGACG	BAN540
+SJC120	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	E6	kabir_ITS2rcbc341	TAATGCCCAGGT	GCCCAGGT	SJC120
+SJC20	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	E7	kabir_ITS2rcbc342	TATGAACGTCCG	AACGTCCG	SJC20
+SJC2160	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	E8	kabir_ITS2rcbc343	CCACATTGGGTC	ATTGGGTC	SJC2160
+SJC3140	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	E9	kabir_ITS2rcbc344	TCAGTCAGATGA	TCAGATGA	SJC3140
+BAN1160	ABA-S4	soil	Bananal	Fragment	Run2	P4	F1	kabir_ITS2rcbc348	CTTGACGAGGTT	ACGAGGTT	BAN1160
+SJC4140	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	F10	kabir_ITS2rcbc357	GGCTGCATACTC	GCATACTC	SJC4140
+SJC5120	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	F11	kabir_ITS2rcbc358	TTGGTAAAGTGC	TAAAGTGC	SJC5120
+BAN2140	ABA-S4	soil	Bananal	Fragment	Run2	P4	F2	kabir_ITS2rcbc349	ACCTGGGAATAT	GGGAATAT	BAN2140
+BAN3100	ABA-S4	soil	Bananal	Fragment	Run2	P4	F3	kabir_ITS2rcbc350	CTCTGCCTAATT	GCCTAATT	BAN3100
+BAN480	ABA-S4	soil	Bananal	Fragment	Run2	P4	F4	kabir_ITS2rcbc351	ATATGACCCAGC	GACCCAGC	BAN480
+BAN560	ABA-S4	soil	Bananal	Fragment	Run2	P4	F5	kabir_ITS2rcbc352	CTCTATTCCACC	ATTCCACC	BAN560
+SJC140	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	F6	kabir_ITS2rcbc353	ATTGAGTGAGTC	AGTGAGTC	SJC140
+SJC220	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	F7	kabir_ITS2rcbc354	TTATGGTACGGA	GGTACGGA	SJC220
+SJC30	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	F8	kabir_ITS2rcbc355	GCTAGTTATGGA	GTTATGGA	SJC30
+SJC3160	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	F9	kabir_ITS2rcbc356	CAGATTAACCAG	TTAACCAG	SJC3160
+BAN20	ABA-S4	soil	Bananal	Fragment	Run2	P4	G1	kabir_ITS2rcbc360	AACCGATGTACC	GATGTACC	BAN20
+SJC4160	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	G10	kabir_ITS2rcbc369	GTTCCTCCATTA	CTCCATTA	SJC4160
+SJC5140	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	G11	kabir_ITS2rcbc370	ACCTGTCCTTTC	GTCCTTTC	SJC5140
+CEXT1P4	ABA-S4	soil	Bananal	Fragment	Run2	P4	G2	kabir_ITS2rcbc361	TCGATTGGCCGT	TTGGCCGT	CEXT1P4
+BAN3120	ABA-S4	soil	Bananal	Fragment	Run2	P4	G3	kabir_ITS2rcbc362	GCATTACTGGAC	TACTGGAC	BAN3120
+BAN4100	ABA-S4	soil	Bananal	Fragment	Run2	P4	G4	kabir_ITS2rcbc363	TTGGGCCACATA	GCCACATA	BAN4100
+BAN580	ABA-S4	soil	Bananal	Fragment	Run2	P4	G5	kabir_ITS2rcbc364	CACACAAAGTCA	CAAAGTCA	BAN580
+SJC160	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	G6	kabir_ITS2rcbc365	GCCAAGGATAGG	AGGATAGG	SJC160
+SJC240	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	G7	kabir_ITS2rcbc366	CGCCACGTGTAT	ACGTGTAT	SJC240
+SJC320	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	G8	kabir_ITS2rcbc367	GCAACCGATTGT	CCGATTGT	SJC320
+SJC40	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	G9	kabir_ITS2rcbc368	CATGTGCTTAGG	TGCTTAGG	SJC40
+BAN220	ABA-S4	soil	Bananal	Fragment	Run2	P4	H1	kabir_ITS2rcbc372	CGATCGAACACT	CGAACACT	BAN220
+SJC50	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	H10	kabir_ITS2rcbc381	GCTATCAAGACA	TCAAGACA	SJC50
+SJC5160	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	H11	kabir_ITS2rcbc382	CCGTGACAACTC	GACAACTC	SJC5160
+BAN2160	ABA-S4	soil	Bananal	Fragment	Run2	P4	H2	kabir_ITS2rcbc373	CATGCCAACATG	CCAACATG	BAN2160
+BAN3140	ABA-S4	soil	Bananal	Fragment	Run2	P4	H3	kabir_ITS2rcbc374	GAGTACAGTCTA	ACAGTCTA	BAN3140
+BAN4120	ABA-S4	soil	Bananal	Fragment	Run2	P4	H4	kabir_ITS2rcbc375	CCTACATGAGAC	CATGAGAC	BAN4120
+BAN5100	ABA-S4	soil	Bananal	Fragment	Run2	P4	H5	kabir_ITS2rcbc376	TCCGTGGTATAG	TGGTATAG	BAN5100
+SJC180	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	H6	kabir_ITS2rcbc377	TCTACGGCACGT	CGGCACGT	SJC180
+SJC260	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	H7	kabir_ITS2rcbc378	ATGCTGCAACAC	TGCAACAC	SJC260
+SJC340	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	H8	kabir_ITS2rcbc379	TTCTCATGGAGG	CATGGAGG	SJC340
+SJC420	ABA-S4	soil	Sao Jose dos Campos	Fragment	Run2	P4	H9	kabir_ITS2rcbc380	CATAGTGATTGG	GTGATTGG	SJC420
+RBSJ2A	ABA-W2	water	Reserva Biologica Serra do Japi	Continuous	Run2	P5	A4	kabir_ITS2rcbc387	GCACATAGTCGT	ATAGTCGT	RBSJ2A
+RBSJ4C	ABA-W2	water	Reserva Biologica Serra do Japi	Continuous	Run2	P5	A5	kabir_ITS2rcbc388	GGCAAATACACT	AATACACT	RBSJ4C
+SJC3A	ABA-W2	water	Sao Jose dos Campos	Fragment	Run2	P5	A6	kabir_ITS2rcbc389	GTCATGCTCCAG	TGCTCCAG	SJC3A
+RBSJ2B	ABA-W2	water	Reserva Biologica Serra do Japi	Continuous	Run2	P5	B4	kabir_ITS2rcbc399	CACAGTTGAAGT	GTTGAAGT	RBSJ2B
+RBSJ5A	ABA-W2	water	Reserva Biologica Serra do Japi	Continuous	Run2	P5	B5	kabir_ITS2rcbc400	CTAGGATCACTG	GATCACTG	RBSJ5A
+SJC3B	ABA-W2	water	Sao Jose dos Campos	Fragment	Run2	P5	B6	kabir_ITS2rcbc401	GATGACCCAAAT	ACCCAAAT	SJC3B
+RBSJ2C	ABA-W2	water	Reserva Biologica Serra do Japi	Continuous	Run2	P5	C4	kabir_ITS2rcbc411	GCTAGACACTAC	GACACTAC	RBSJ2C
+RBSJ5B	ABA-W2	water	Reserva Biologica Serra do Japi	Continuous	Run2	P5	C5	kabir_ITS2rcbc412	TTGGATTGAACG	ATTGAACG	RBSJ5B
+SJC4A	ABA-W2	water	Sao Jose dos Campos	Fragment	Run2	P5	C6	kabir_ITS2rcbc413	GATATACCAGTG	TACCAGTG	SJC4A
+RBSJ3A	ABA-W2	water	Reserva Biologica Serra do Japi	Continuous	Run2	P5	D4	kabir_ITS2rcbc423	CGTAGAGCTCTC	GAGCTCTC	RBSJ3A
+RBSJ5C	ABA-W2	water	Reserva Biologica Serra do Japi	Continuous	Run2	P5	D5	kabir_ITS2rcbc424	CCTCTGAGAGCT	TGAGAGCT	RBSJ5C
+SJC4B	ABA-W2	water	Sao Jose dos Campos	Fragment	Run2	P5	D6	kabir_ITS2rcbc425	CCTCGATGCAGT	GATGCAGT	SJC4B
+RBSJ3B	ABA-W2	water	Reserva Biologica Serra do Japi	Continuous	Run2	P5	E4	kabir_ITS2rcbc435	TGCTACAGACGT	ACAGACGT	RBSJ3B
+SJC1A	ABA-W2	water	Sao Jose dos Campos	Fragment	Run2	P5	E5	kabir_ITS2rcbc436	ATGGCCTGACTA	CCTGACTA	SJC1A
+SJC5A	ABA-W2	water	Sao Jose dos Campos	Fragment	Run2	P5	E6	kabir_ITS2rcbc437	ACGCACATACAA	ACATACAA	SJC5A
+RBSJ3C	ABA-W2	water	Reserva Biologica Serra do Japi	Continuous	Run2	P5	F4	kabir_ITS2rcbc447	CCGATGCCTTGA	TGCCTTGA	RBSJ3C
+SJC1B	ABA-W2	water	Sao Jose dos Campos	Fragment	Run2	P5	F5	kabir_ITS2rcbc448	AGCAGGCACGAA	GGCACGAA	SJC1B
+SJC5B	ABA-W2	water	Sao Jose dos Campos	Fragment	Run2	P5	F6	kabir_ITS2rcbc449	TACGCAGCACTA	CAGCACTA	SJC5B
+RBSJ4A	ABA-W2	water	Reserva Biologica Serra do Japi	Continuous	Run2	P5	G4	kabir_ITS2rcbc459	TCCATTTCATGC	TTTCATGC	RBSJ4A
+SJC2A	ABA-W2	water	Sao Jose dos Campos	Fragment	Run2	P5	G5	kabir_ITS2rcbc460	TCGGCGATCATC	CGATCATC	SJC2A
+SJC5C	ABA-W2	water	Sao Jose dos Campos	Fragment	Run2	P5	G6	kabir_ITS2rcbc461	GTTTCACGCGAA	CACGCGAA	SJC5C
+RBSJ4B	ABA-W2	water	Reserva Biologica Serra do Japi	Continuous	Run2	P5	H4	kabir_ITS2rcbc471	GGACGTTAACTA	GTTAACTA	RBSJ4B
+SJC2B	ABA-W2	water	Sao Jose dos Campos	Fragment	Run2	P5	H5	kabir_ITS2rcbc472	TAGCAGTTGCGT	AGTTGCGT	SJC2B
+FSW283	ABA-F4	host	Pilar do Sul	Continuous	Run2	P5	A1	kabir_ITS2rcbc384	GGAATTATCGGT	TTATCGGT	FSW283
+FSW291	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	A2	kabir_ITS2rcbc385	CATCAAGCATAG	AAGCATAG	FSW291
+FSW299	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	A3	kabir_ITS2rcbc386	CATCGCGTTGAC	GCGTTGAC	FSW299
+FSW284	ABA-F4	host	Pilar do Sul	Continuous	Run2	P5	B1	kabir_ITS2rcbc396	CTCTCTCACTTG	CTCACTTG	FSW284
+FSW292	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	B2	kabir_ITS2rcbc397	ATTGCAAGCAAC	CAAGCAAC	FSW292
+FSW300	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	B3	kabir_ITS2rcbc398	CACGTGACATGT	TGACATGT	FSW300
+FSW285	ABA-F4	host	Pilar do Sul	Continuous	Run2	P5	C1	kabir_ITS2rcbc408	AGCGACGAAGAC	ACGAAGAC	FSW285
+FSW293	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	C2	kabir_ITS2rcbc409	CTTCCCTAACTC	CCTAACTC	FSW293
+FSW301	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	C3	kabir_ITS2rcbc410	TGGAAGAACGGC	AGAACGGC	FSW301
+FSW286	ABA-F4	host	Pilar do Sul	Continuous	Run2	P5	D1	kabir_ITS2rcbc420	CTTCGACTTTCC	GACTTTCC	FSW286
+FSW294C	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	D2	kabir_ITS2rcbc421	GTCATAAGAACC	TAAGAACC	FSW294C
+FSW302	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	D3	kabir_ITS2rcbc422	GTCCGCAAGTTA	GCAAGTTA	FSW302
+FSW287	ABA-F4	host	Pilar do Sul	Continuous	Run2	P5	E1	kabir_ITS2rcbc432	AACTCCTGTGGA	CCTGTGGA	FSW287
+FSW295	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	E2	kabir_ITS2rcbc433	TAATGGTCGTAG	GGTCGTAG	FSW295
+FSW303	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	E3	kabir_ITS2rcbc434	TTGCACCGTCGA	ACCGTCGA	FSW303
+FSW288	ABA-F4	host	Pilar do Sul	Continuous	Run2	P5	F1	kabir_ITS2rcbc444	CCACCCAGTAAC	CCAGTAAC	FSW288
+FSW296	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	F2	kabir_ITS2rcbc445	ATATCGCGATGA	CGCGATGA	FSW296
+FSW304C	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	F3	kabir_ITS2rcbc446	CGCCGGTAATCT	GGTAATCT	FSW304C
+FSW289C	ABA-F4	host	Pilar do Sul	Continuous	Run2	P5	G1	kabir_ITS2rcbc456	CCTGCTTCCTTC	CTTCCTTC	FSW289C
+FSW297	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	G2	kabir_ITS2rcbc457	CAAGGCACAAGG	GCACAAGG	FSW297
+CEXT1P10	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	G3	kabir_ITS2rcbc458	GGCCTATAAGTC	TATAAGTC	CEXT1P10
+FSW290	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	H1	kabir_ITS2rcbc468	TCATTCCACTCA	TCCACTCA	FSW290
+FSW298	ABA-F4	host	Reserva Biologica Serra do Japi	Continuous	Run2	P5	H2	kabir_ITS2rcbc469	GTCACATCACGA	CATCACGA	FSW298
