@@ -1,0 +1,11 @@
+KO	Type
+K10715	Resuscitation
+K07154	Toxins
+K03830	Toxins
+K07172  	Toxins
+K02835 	Toxins
+K06218	Toxins
+K07172	Toxins
+K03830	Toxins
+K07154	Toxins
+K07699	Sporulation
