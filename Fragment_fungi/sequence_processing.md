@@ -30,14 +30,14 @@ qiime tools import \
 #join paired end reads with vsearch
 qiime vsearch merge-pairs \
   --i-demultiplexed-seqs RoL_seqs_full.qza \
-  --o-merged-sequences RoL_ITS_joined.qza \
---p-min-quality 30
- 
+  --o-merged-sequences RoL_ITS_joined.qza 
+
 #quality filter joined reads
 qiime quality-filter q-score \
 --i-demux  RoL_ITS_joined.qza \
 --o-filtered-sequences  RoL_ITS_filt.qza \
---o-filter-stats  RoL_ITS_filt_stats.qza 
+--o-filter-stats  RoL_ITS_filt_stats.qza \
+--p-min-quality 30
 
 #dereplicate sequences with vsearch
 qiime vsearch dereplicate-sequences \
@@ -65,6 +65,72 @@ qiime dada2 denoise-paired \
  --o-denoising-stats RoL_dada2_denoising-stats.qza
 ```
 
-#assign taxonomy
+# Assign taxonomy
+```
+#pull qiime formatted QIIME databse: https://doi.plutof.ut.ee/doi/10.15156/BIO/2938079
 
-#export OTU tables to text files
+#decompress
+tar xzf FB78E30E44793FB02E5A4D3AE18EB4A6621A2FAEB7A4E94421B8F7B65D46CA4A.tgz
+
+#move to directory
+mkdir unite_v9
+mv sh* unite_v9
+rm FB78E30E44793FB02E5A4D3AE18EB4A6621A2FAEB7A4E94421B8F7B65D46CA4A.tgz
+
+#Fix formatting errors that prevent importation of the reference sequences into QIIME2. There are white spaces that interfere, and possibly some lower case letters that need to be converted to upper case.
+
+awk '/^>/ {print($0)}; /^[^>]/ {print(toupper($0))}' unite_v9/sh_refs_qiime_ver9_99_25.07.2023.fasta | tr -d ' ' > unite_v9/sh_refs_qiime_ver9_99_25.07.2023_uppercase.fasta
+
+#Import the UNITE reference sequences into QIIME2.
+qiime tools import \
+--type FeatureData[Sequence] \
+--input-path unite_v9/sh_refs_qiime_ver9_99_25.07.2023_uppercase.fasta \
+--output-path unite-ver9-seqs_99.qza
+
+#Import the taxonomy file.
+qiime tools import \
+--type FeatureData[Taxonomy] \
+--input-path unite_v9/sh_taxonomy_qiime_ver9_99_25.07.2023.txt \
+--output-path unite-ver9-taxonomy_99.qza \
+--input-format HeaderlessTSVTaxonomyFormat
+
+#Train the classifier.
+cd /hpcstor6/scratch01/p/patrick.kearns/Becker_lab_ITS
+qiime feature-classifier fit-classifier-naive-bayes \
+--i-reference-reads unite-ver9-seqs_99.qza \
+--i-reference-taxonomy unite-ver9-taxonomy_99.qza \
+--o-classifier unite-ver9-99-classifier.qza
+
+cd /hpcstor6/scratch01/p/patrick.kearns/Becker_lab_ITS/RoL_data
+
+#Assign taxonomy with sklearn/UNITE v9
+qiime feature-classifier classify-sklearn
+--i-classifier /hpcstor6/scratch01/p/patrick.kearns/Becker_lab_ITS/unite-ver9-99-classifier.qza \
+--p-n-jobs 24 \
+--i-reads RoL_dada2_rep-seqs.qza \
+--o-classification dada2_tax.qza
+
+qiime feature-classifier classify-sklearn
+--i-classifier /hpcstor6/scratch01/p/patrick.kearns/Becker_lab_ITS/unite-ver9-99-classifier.qza \
+--p-n-jobs 24 \
+--i-reads RoL_vearch_rep_seqs.qza \
+--o-classification vsearch_tax.qza
+
+#make taxa barplots
+qiime taxa barplot --o-visualization vsearch_taxa_plot.qzv --m-metadata-file Rol_full_map.txt --i-table RoL_vsearch_otu_table.qza --i-taxonomy vsearch_tax.qza
+
+qiime taxa barplot --o-visualization dada2_taxa_plot.qzv --m-metadata-file Rol_full_map.txt --i-table RoL_dada2_table.qza --i-taxonomy dada2_tax.qza
+
+```
+
+
+## Export OTU tables to text/biom files
+```
+qiime tools export --input-path RoL_dada2_table.qza --output-path dada2_table
+qiime tools export --input-path RoL_vsearch_otu_table.qza --output-path vsearch_table
+
+biom convert -i vsearch_table/feature-table.biom -o vsearch_otu_table.txt --to-tsv
+biom convert -i dada2_table/feature-table.biom -o dada2_otu_table.txt --to-tsv
+
+
+```
