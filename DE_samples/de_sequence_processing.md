@@ -47,7 +47,7 @@ qiime tools export --input-path DE_Run3_demux.qza --output-path DE_Run3_demux_fa
 cd /hpcstor6/scratch01/p/patrick.kearns/Becker_lab_ITS
 mkdir DE_demux
 
-#reimport fastq files to make a master seq of sequences for all DE samples
+#reimport fastq files to make a master seq of paired-end sequences for all DE samples
 qiime tools import \
  --type 'SampleData[PairedEndSequencesWithQuality]' \
   --input-path DE_manifest.txt \
@@ -57,13 +57,17 @@ qiime tools import \
 #join paired end reads with vsearch
 qiime vsearch merge-pairs \
   --i-demultiplexed-seqs DE_seqs_full.qza \
-  --o-merged-sequences DE_ITS_joined.qza 
+  --o-merged-sequences DE_ITS_joined.qza \
+--p-maxdiffs 25 \
+ --p-threads 24
  
 #quality filter joined reads
 qiime quality-filter q-score \
 --i-demux  DE_ITS_joined.qza \
 --o-filtered-sequences  DE_ITS_filt.qza \
---o-filter-stats  DE_ITS_filt_stats.qza 
+--o-filter-stats  DE_ITS_filt_stats.qza \
+--p-max-ambiguous 25 \
+--p-min-quality 1 
 
 #dereplicate sequences with vsearch
 qiime vsearch dereplicate-sequences \
@@ -77,7 +81,8 @@ qiime vsearch dereplicate-sequences \
   --i-table derep_table.qza \
   --p-perc-identity 0.97 \
   --o-clustered-table vsearch_otu_table.qza \
-  --o-clustered-sequences vearch_rep_seqs.qza
+  --o-clustered-sequences vearch_rep_seqs.qza \
+--p-threads 24
 
 #process with DADA2
 qiime dada2 denoise-paired \
@@ -88,7 +93,10 @@ qiime dada2 denoise-paired \
   --p-trunc-len-r 150 \
   --o-table dada2_table.qza \
  --o-representative-sequences dada2_rep-seqs.qza \
- --o-denoising-stats dada2_denoising-stats.qza
+ --o-denoising-stats dada2_denoising-stats.qza \
+--p-n-threads 24 \
+--p-n-reads-learn 24 \
+--p-min-overlap 1
 ```
 
 ## Train UNITE v9 
@@ -127,9 +135,16 @@ qiime feature-classifier fit-classifier-naive-bayes \
 --o-classifier unite-ver9-99-classifier.qza
 ```
 
-## Assign taxonomy
+## Assign taxonomy/make taxa plots
 ```
+#Assign taxonomy with sklearn/UNITE v9
+qiime feature-classifier classify-sklearn --i-classifier /hpcstor6/scratch01/p/patrick.kearns/Becker_lab_ITS/unite-ver9-99-classifier.qza --p-n-jobs 24 --i-reads dada2_rep-seqs.qza --o-classification dada2_tax.qza
 
+qiime feature-classifier classify-sklearn --i-classifier /hpcstor6/scratch01/p/patrick.kearns/Becker_lab_ITS/unite-ver9-99-classifier.qza --p-n-jobs 24 --i-reads vearch_rep_seqs.qza --o-classification vsearch_tax.qza
+
+#make taxa barplots
+qiime taxa barplot --o-visualization vsearch_taxa_plot.qzv --m-metadata-file DE_full_map.txt --i-table vsearch_otu_table.qza --i-taxonomy vsearch_tax.qza
+qiime taxa barplot --o-visualization dada2_taxa_plot.qzv --m-metadata-file DE_full_map.txt --i-table dada2_table.qza --i-taxonomy dada2_tax.qza
 ```
 ## Export OTU tables to text files
 ```
@@ -145,4 +160,4 @@ biom convert -i dada2_otu_table/feature-table.biom -o vsearch_otu_table.txt --to
 qiime tools export --input-path dada2_rep-seqs.qza  --output-path dada2_rep_seqs
 qiime tools export --input-path vearch_rep_seqs.qza  --output-path vsearch_rep_seqs
 
-  
+```
