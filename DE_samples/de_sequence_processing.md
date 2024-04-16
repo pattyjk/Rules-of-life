@@ -1,3 +1,6 @@
+## Sequence processing
+
+```
 #import paired end reads for DE run1
 cd /hpcstor6/scratch01/p/patrick.kearns/Becker_lab_ITS/DE_Run1
 #qiime tools import \
@@ -57,17 +60,14 @@ qiime tools import \
 #join paired end reads with vsearch
 qiime vsearch merge-pairs \
   --i-demultiplexed-seqs DE_seqs_full.qza \
-  --o-merged-sequences DE_ITS_joined.qza \
---p-maxdiffs 25 \
- --p-threads 24
- 
+  --o-merged-sequences DE_ITS_joined.qza 
+
 #quality filter joined reads
 qiime quality-filter q-score \
 --i-demux  DE_ITS_joined.qza \
 --o-filtered-sequences  DE_ITS_filt.qza \
 --o-filter-stats  DE_ITS_filt_stats.qza \
---p-max-ambiguous 25 \
---p-min-quality 1 
+--p-min-quality 20
 
 #dereplicate sequences with vsearch
 qiime vsearch dereplicate-sequences \
@@ -146,6 +146,7 @@ qiime feature-classifier classify-sklearn --i-classifier /hpcstor6/scratch01/p/p
 qiime taxa barplot --o-visualization vsearch_taxa_plot.qzv --m-metadata-file DE_full_map.txt --i-table vsearch_otu_table.qza --i-taxonomy vsearch_tax.qza
 qiime taxa barplot --o-visualization dada2_taxa_plot.qzv --m-metadata-file DE_full_map.txt --i-table dada2_table.qza --i-taxonomy dada2_tax.qza
 ```
+
 ## Export OTU tables to text files
 ```
 qiime tools export --input-path  vsearch_otu_table.qza --output-path vsearch_otu_table
@@ -161,3 +162,7 @@ qiime tools export --input-path dada2_rep-seqs.qza  --output-path dada2_rep_seqs
 qiime tools export --input-path vearch_rep_seqs.qza  --output-path vsearch_rep_seqs
 
 ```
+
+## Export taxa plots and taxonomy assignments to text files
+```
+qiime tools export --input-path dada2_tax.qza --output-path dada2_tax
