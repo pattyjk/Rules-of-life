@@ -166,3 +166,5 @@ qiime tools export --input-path vearch_rep_seqs.qza  --output-path vsearch_rep_s
 ## Export taxa plots and taxonomy assignments to text files
 ```
 qiime tools export --input-path dada2_tax.qza --output-path dada2_tax
+qiime tools export --input-path vsearch_tax.qza --output-path vsearch_tax
+```
